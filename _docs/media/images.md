@@ -1,12 +1,10 @@
 ---
-title: Images
+title: 机器学习相关Python库
 category: Media
 order: 1
 ---
 
-Share images with your friends! Send photos and pictures from your computer, phone or camera.
-
-> Images are stored until you choose to remove them.
+> EDA、可视化和数据处理
 
 To share an image:
 
@@ -14,16 +12,48 @@ To share an image:
 2. Select the **Send Media** button
 3. Pick an image
 
+
+> 时间序列
+
+
+
+> 推荐系统
+
+
+
+> 异常检测
+
+
+
+> 模型可视化、优化和稳健性
+
+
+
+> 自然语言处理 (NLP)
+
+
+
+
+> 模型拟合和 AutoML
+
+
+
+
+> 计算机视觉
+
+
+
+> 聚类
+
+
+
+> 强化学习
+
+
+
+> 网页抓取和开发
+
+
+
+> 其它库
 ![](//placehold.it/800x600)
-
-Supported types:
-
-* JPEG
-* PNG
-* BMP
-* GIF
-
-Unsupported types:
-
-* SVG
-* WEBP
