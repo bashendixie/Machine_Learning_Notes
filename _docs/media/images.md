@@ -102,7 +102,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/comprehensive-guide-to-web-scraping-with-selenium/"
 				data-wpel-link="internal">
-					1. https://analyticsindiamag.com/comprehensive-guide-to-web-scraping-with-selenium/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -110,7 +110,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/beginner-guide-to-web-scraping-with-selenium-with-implementation-in-python/"
 				data-wpel-link="internal">
-					2. https://analyticsindiamag.com/beginner-guide-to-web-scraping-with-selenium-with-implementation-in-python/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -133,7 +133,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/creating-web-applications-using-pywebio/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/creating-web-applications-using-pywebio/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -147,7 +147,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/10-best-python-frameworks-for-web-development/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/10-best-python-frameworks-for-web-development/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -170,7 +170,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/hands-on-guide-to-web-scraping-using-python-and-scrapy/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/hands-on-guide-to-web-scraping-using-python-and-scrapy/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -178,7 +178,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/scrapy-vs-beautiful-soup-a-comparison-of-web-crawling-tools/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/scrapy-vs-beautiful-soup-a-comparison-of-web-crawling-tools/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -186,7 +186,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/beginners-guide-to-web-scraping-in-python-with-scrapy/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/beginners-guide-to-web-scraping-in-python-with-scrapy/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -209,7 +209,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/beautiful-soup-webscraping-python/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/beautiful-soup-webscraping-python/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -217,7 +217,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/beautiful-soup-primer-how-to-scrape-data-from-a-website/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/beautiful-soup-primer-how-to-scrape-data-from-a-website/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -225,7 +225,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/guide-to-web-scraping-with-python-libraries-selenium-beautiful-soup/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/guide-to-web-scraping-with-python-libraries-selenium-beautiful-soup/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -248,7 +248,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -256,7 +256,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -278,7 +278,7 @@ To share an image:
 			</td>
 			<td>
 				<a href="https://analyticsindiamag.com/scrapingbee-api/" data-wpel-link="internal">
-					https://analyticsindiamag.com/scrapingbee-api/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -300,7 +300,7 @@ To share an image:
 			</td>
 			<td>
 				<a href="https://analyticsindiamag.com/cheerio/" data-wpel-link="internal">
-					https://analyticsindiamag.com/cheerio/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -322,7 +322,7 @@ To share an image:
 			</td>
 			<td>
 				<a href="https://analyticsindiamag.com/web-scraping-frameworks/" data-wpel-link="internal">
-					https://analyticsindiamag.com/web-scraping-frameworks/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -345,7 +345,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -367,7 +367,7 @@ To share an image:
 			</td>
 			<td>
 				<a href="https://analyticsindiamag.com/diffbot/" data-wpel-link="internal">
-					https://analyticsindiamag.com/diffbot/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -426,7 +426,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/how-to-build-healthcare-predictive-models-using-pyhealth/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/how-to-build-healthcare-predictive-models-using-pyhealth/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -449,7 +449,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/a-guide-to-omnizart-a-general-toolbox-for-automatic-music-transcription/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/a-guide-to-omnizart-a-general-toolbox-for-automatic-music-transcription/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -463,7 +463,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/top-python-libraries-to-get-historical-stock-data-with-code/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/top-python-libraries-to-get-historical-stock-data-with-code/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -486,7 +486,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-handcalcs-python-library-for-converting-calculations-in-latex/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/hands-on-tutorial-on-handcalcs-python-library-for-converting-calculations-in-latex/
+					教程
 				</a>
 			</td>
 		</tr>
@@ -509,7 +509,7 @@ To share an image:
 			<td>
 				<a href="https://analyticsindiamag.com/pytorch-releases-drug-discovery-platform-torchdrug/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/pytorch-releases-drug-discovery-platform-torchdrug/
+					教程
 				</a>
 			</td>
 		</tr>
