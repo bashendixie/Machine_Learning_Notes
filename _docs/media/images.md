@@ -56,7 +56,7 @@ To share an image:
 
 
 > 其它库
-<table width="1033" style="font-size: 1.4em;">
+<table width="1033" style="font-size: 0.8em;">
 	<tbody>
 		<tr>
 			<td width="44">
