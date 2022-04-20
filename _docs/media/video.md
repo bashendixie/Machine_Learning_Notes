@@ -315,23 +315,6 @@ order: 2
 [scikit-learn教程](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks)
 
 
-> 数学课程
-
-[吉尔伯特·斯特朗线性代数](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-[吉尔伯特·斯特朗线性代数](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010)
-[微积分](https://arxiv.org/pdf/1802.01528.pdf)
-[线性代数](https://www.deeplearningbook.org/contents/linear_algebra.html)
-[概率](https://www.probabilitycourse.com/)
-[概率](https://www.deeplearningbook.org/contents/prob.html)
-[Coursera 上的机器学习数学](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
-[Coursera 上的机器学习数学](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/material/optimization.pdf)
-[未知](https://www.deeplearningbook.org/contents/numerical.html)
-[CS229线性代数翻译](http://www.ai-start.com/CS229/1.CS229-LinearAlgebra.html)
-[CS229概率论翻译](http://www.ai-start.com/CS229/2.CS229-Prob.html)
-[大学数学基础公式](http://www.ai-start.com/dl2017/html/math.html)
-[麻省理工线性代数](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)
-[线性代数](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes)
-
 > 统计课程
 
 [李航《统计学习方法》](https://mp.weixin.qq.com/s/71w0IN3gAYWxrKVM_lcYrQ)
