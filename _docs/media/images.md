@@ -284,7 +284,7 @@ order: 1
 			<td>
 				<a href="https://analyticsindiamag.com/exploring-dataprep-a-python-library-for-data-preparation-eda/"
 				data-wpel-link="internal">
-					https://analyticsindiamag.com/exploring-dataprep-a-python-library-for-data-preparation-eda/
+					教程
 				</a>
 			</td>
 		</tr>
