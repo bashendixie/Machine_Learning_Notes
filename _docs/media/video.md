@@ -72,6 +72,8 @@ order: 2
 			</td>
 			<td>
 				http://introtodeeplearning.com/
+				<br/>
+				https://github.com/aamini/introtodeeplearning/
 			</td>
 		</tr>
 		<tr>
@@ -104,23 +106,120 @@ order: 2
 				https://www.deeplearningbook.org/contents/ml.html
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<p>
+					Bishop - 模式识别和机器学习
+				</p>
+			</td>
+			<td>
+				[Bishop - 模式识别和机器学习](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB_k_&gclid=Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					Bishop - 模式识别和机器学习
+				</p>
+			</td>
+			<td>
+				[Bishop 的模式识别和机器学习](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					Cs231n 的作业
+				</p>
+			</td>
+			<td>
+				[Cs231n 的作业](http://cs231n.github.io/)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					英特尔
+				</p>
+			</td>
+			<td>
+				[英特尔](https://analyticsindiamag.com/reinventing-deep-learning-operation-via-einops/)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					吴恩达老师的深度学习课程笔记1
+				</p>
+			</td>
+			<td>
+				[吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/deeplearning_ai_books)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					吴恩达老师的深度学习课程笔记2
+				</p>
+			</td>
+			<td>
+				[吴恩达老师的深度学习课程笔记](http://www.ai-start.com/dl2017/)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					吴恩达老师的深度学习课程笔记3
+				</p>
+			</td>
+			<td>
+				[吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					支持向量机教程
+				</p>
+			</td>
+			<td>
+				[支持向量机教程](https://www.svm-tutorial.com/)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					深度学习500问
+				</p>
+			</td>
+			<td>
+				[深度学习500问](https://gitee.com/bashendixie/DeepLearning-500-questions/tree/master)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					神经网络基本原理教程
+				</p>
+			</td>
+			<td>
+				[神经网络基本原理教程](https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/index.html)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					深度学习课程
+				</p>
+			</td>
+			<td>
+				[深度学习课程](https://www.deeplearningbook.org/)
+			</td>
+		</tr>
 	</tbody>
 </table>
 
 
-
-
-[Bishop - 模式识别和机器学习](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB_k_&gclid=Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB)
-[Bishop 的模式识别和机器学习](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
-[Cs231n 的作业](http://cs231n.github.io/)
-[英特尔](https://analyticsindiamag.com/reinventing-deep-learning-operation-via-einops/)
-[吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/deeplearning_ai_books)
-[吴恩达老师的深度学习课程笔记](http://www.ai-start.com/dl2017/)
-[吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-[支持向量机教程](https://www.svm-tutorial.com/)
-[深度学习500问](https://gitee.com/bashendixie/DeepLearning-500-questions/tree/master)
-[神经网络基本原理教程](https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/index.html)
-[深度学习课程](https://www.deeplearningbook.org/)
 
 > Python教程
 
