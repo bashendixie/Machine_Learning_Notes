@@ -30,6 +30,17 @@ order: 1
 				http://www.aforgenet.com/framework/samples/image_processing.html
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<p>
+					图像处理100问
+				</p>
+			</td>
+			<td>
+				https://gitee.com/mengfansheng163/ImageProcessing100Wen
+			</td>
+		</tr>
+		
 	</tbody>
 </table>
 
