@@ -178,7 +178,7 @@ title: 学习笔记
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
 		<tr>
-			<td>
+			<td width=200>
 				<a href="https://chromatone.center/" target="_blank">Chromatone</a>
 			</td>
 			<td>
