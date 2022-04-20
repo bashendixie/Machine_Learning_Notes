@@ -4,10 +4,16 @@ category: Media
 order: 2
 ---
 
+> Blog
+[pyimagesearch](https://pyimagesearch.com/start-here/)
+
+
 > 机器学习教程
+
 [吴恩达机器学习课程](https://www.coursera.org/learn/machine-learning)
 [机器学习专项课程](https://www.coursera.org/specializations/deep-learning#instructors)
 [纽约大学机器学习课程](https://atcold.github.io/pytorch-Deep-Learning/)
+[纽约大学2019年春机器学习课程](https://davidrosenberg.github.io/ml2019/#home)
 [MIT机器学习课程](http://introtodeeplearning.com/)
 [fast.ai](https://course.fast.ai/)
 [说是一些论文](https://adeshpande3.github.io/)
@@ -21,11 +27,13 @@ order: 2
 [吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
 > Python教程
+
 [pep8规则](https://pep8.org/)
 [scikit-learn教程](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks)
 
 
 > 数学课程
+
 [吉尔伯特·斯特朗线性代数](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 [微积分](https://arxiv.org/pdf/1802.01528.pdf)
 [线性代数](https://www.deeplearningbook.org/contents/linear_algebra.html)
@@ -39,10 +47,12 @@ order: 2
 [大学数学基础公式](http://www.ai-start.com/dl2017/html/math.html)
 
 > 统计课程
-[李航《统计学习方法》](https://mp.weixin.qq.com/s/71w0IN3gAYWxrKVM_lcYrQ)(https://github.com/fengdu78/lihang)
 
+[李航《统计学习方法》](https://mp.weixin.qq.com/s/71w0IN3gAYWxrKVM_lcYrQ)(https://github.com/fengdu78/lihang)
+[宾夕法尼亚州立大学统计学教程](https://online.stat.psu.edu/statprogram/)
 
 > 未知
+
 [AngelList](https://platerecognizer.com/)
 [未知](https://stanford.edu/~shervine/teaching/cs-230.html)
 [未知](http://distill.pub/)
