@@ -145,7 +145,7 @@ order: 1
 			<td>
 				<a href="https://analyticsindiamag.com/how-to-handle-tabular-data-for-deep-learning-using-pytorch-tabular/"
 				data-wpel-link="internal">
-					1. 教程
+					教程
 				</a>
 			</td>
 		</tr>
@@ -153,7 +153,7 @@ order: 1
 			<td>
 				<a href="https://analyticsindiamag.com/inside-pytorch-tabular-a-deep-learning-framework-for-tabular-data/"
 				data-wpel-link="internal">
-					2. 教程
+					教程
 				</a>
 			</td>
 		</tr>
@@ -176,7 +176,7 @@ order: 1
 			<td>
 				<a href="https://analyticsindiamag.com/a-deep-dive-into-pyecharts-a-python-tool-for-data-visualization/"
 				data-wpel-link="internal">
-					1. 教程
+					教程
 				</a>
 			</td>
 		</tr>
@@ -203,14 +203,14 @@ order: 1
 		<tr>
 			<td>
 				<a href="https://analyticsindiamag.com/how-to-use-plotly-in-colab/" data-wpel-link="internal">
-					2. 教程
+					教程
 				</a>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a href="https://analyticsindiamag.com/plotly-vs-seaborn-compari/" data-wpel-link="internal">
-					3. 教程
+					教程
 				</a>
 			</td>
 		</tr>
