@@ -113,7 +113,7 @@ order: 2
 				</p>
 			</td>
 			<td>
-				[Bishop - 模式识别和机器学习](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB_k_&gclid=Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB)
+				<a href="https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB_k_&gclid=Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB">Bishop - 模式识别和机器学习</a>
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ order: 2
 				</p>
 			</td>
 			<td>
-				[Bishop 的模式识别和机器学习](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+				<a href="https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738">Bishop 的模式识别和机器学习</a>
 			</td>
 		</tr>
 		<tr>
@@ -143,7 +143,7 @@ order: 2
 				</p>
 			</td>
 			<td>
-				[英特尔](https://analyticsindiamag.com/reinventing-deep-learning-operation-via-einops/)
+				https://analyticsindiamag.com/reinventing-deep-learning-operation-via-einops/
 			</td>
 		</tr>
 		<tr>
@@ -203,7 +203,7 @@ order: 2
 				</p>
 			</td>
 			<td>
-				[神经网络基本原理教程](https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/index.html)
+				<a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/index.html">神经网络基本原理教程</a>
 			</td>
 		</tr>
 		<tr>
