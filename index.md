@@ -29,6 +29,9 @@ title: 学习笔记
 				<a href="https://bashendixie.github.io/mathematics/" target="_blank">高等数学</a>
 			</td>
 			<td>
+				<a href="https://bashendixie.github.io/algorithm_study/" target="_blank">数据结构和算法</a>
+			</td>
+			<td>
 				<a href="https://github.com/bashendixie?tab=repositories" target="_blank">github</a>
 			</td>
 			<td>
