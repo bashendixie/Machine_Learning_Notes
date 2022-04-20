@@ -1,38 +1,22 @@
 ---
-title: Welcome
+title: 学习笔记
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+> [Google翻译](https://translate.google.cn/)
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> [JupyterLab](http://localhost:8888/lab)
 
-### Getting Started
+> [阿里云](https://account.aliyun.com/)
 
-Getting a message sent is quick and easy with ChatApp:
+> [github](https://github.com/bashendixie?tab=repositories)
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+> [码云](https://gitee.com/)
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+> [Google云端硬盘](https://drive.google.com/drive/my-drive)
 
-### Features
+> [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
 
-Explore more of ChatApp by reading about our features:
+> [高等数学](https://bashendixie.github.io/mathematics/)
 
-#### Media
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
