@@ -249,8 +249,32 @@ order: 2
 
 
 > 优化课程
-
-[西北大学流程优化公开课本](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td>
+				<strong>
+					课程
+				</strong>
+			</td>
+			<td>
+				<strong>
+					网址
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					西北大学流程优化公开课本
+				</p>
+			</td>
+			<td>
+				[西北大学流程优化公开课本](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 未知
