@@ -242,7 +242,7 @@ order: 2
 		</tr>
 		<tr>
 			<td>
-				林轩天教授
+				林轩天教授主页
 			</td>
 			<td>
 				https://www.csie.ntu.edu.tw/~htlin/
@@ -274,7 +274,7 @@ order: 2
 		</tr>
 		<tr>
 			<td>
-				Xiaohui Xie
+				Xiaohui Xie主页
 			</td>
 			<td>
 				https://www.ics.uci.edu/~xhx/
@@ -286,6 +286,22 @@ order: 2
 			</td>
 			<td>
 				https://www.tensorflow.org/tutorials/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dani Lischinski主页
+			</td>
+			<td>
+				https://www.cs.huji.ac.il/~danix/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				junjie主页
+			</td>
+			<td>
+				https://www.seas.ucla.edu/~junjie/project/
 			</td>
 		</tr>
 	</tbody>
