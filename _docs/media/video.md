@@ -240,7 +240,54 @@ order: 2
 				https://zh.d2l.ai/
 			</td>
 		</tr>
-		
+		<tr>
+			<td>
+				林轩天教授
+			</td>
+			<td>
+				https://www.csie.ntu.edu.tw/~htlin/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				微软机器学习课程
+			</td>
+			<td>
+				https://github.com/microsoft/ML-For-Beginners/blob/main/translations/README.zh-cn.md
+			</td>
+		</tr>
+		<tr>
+			<td>
+				机器学习课程
+			</td>
+			<td>
+				https://atcold.github.io/pytorch-Deep-Learning/en/faq/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				机器学习视觉小组
+			</td>
+			<td>
+				https://lab1055.github.io/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Xiaohui Xie
+			</td>
+			<td>
+				https://www.ics.uci.edu/~xhx/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				tensorflow指南
+			</td>
+			<td>
+				https://www.tensorflow.org/tutorials/
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -266,6 +313,8 @@ order: 2
 [CS229线性代数翻译](http://www.ai-start.com/CS229/1.CS229-LinearAlgebra.html)
 [CS229概率论翻译](http://www.ai-start.com/CS229/2.CS229-Prob.html)
 [大学数学基础公式](http://www.ai-start.com/dl2017/html/math.html)
+[麻省理工线性代数](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)
+[线性代数](https://github.com/ML-NLPChina/MIT-Linear-Algebra-Notes)
 
 > 统计课程
 
