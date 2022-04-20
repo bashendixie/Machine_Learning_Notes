@@ -1,7 +1,7 @@
 ---
 title: SLAM
-category: 机器学习
-order: 4
+category: 计算机视觉
+order: 2
 ---
 
 > SLAM
