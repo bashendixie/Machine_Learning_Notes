@@ -153,6 +153,15 @@ order: 3
 		</tr>
 		<tr>
 			<td>
+				The Deep Learning Book (2016)
+			</td>
+			<td>
+				https://github.com/hadrienj/deepLearningBook-Notes
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
 				Hands-On-Computer-Vision-with-TensorFlow-2
 			</td>
 			<td>
