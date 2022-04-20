@@ -1,7 +1,7 @@
 ---
 title: github资源
 category: 机器学习
-order: 4
+order: 3
 ---
 
 > github资源
