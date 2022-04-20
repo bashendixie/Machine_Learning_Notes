@@ -5,8 +5,62 @@ order: 2
 ---
 
 > Blog
-
-[pyimagesearch](https://pyimagesearch.com/start-here/)
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td>
+				<strong>
+					课程
+				</strong>
+			</td>
+			<td>
+				<strong>
+					网址
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					pyimagesearch
+				</p>
+			</td>
+			<td>
+				https://pyimagesearch.com/start-here/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					visiondummy
+				</p>
+			</td>
+			<td>
+				https://www.visiondummy.com/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					setosa
+				</p>
+			</td>
+			<td>
+				https://setosa.io/#/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					Alyssa Quek
+				</p>
+			</td>
+			<td>
+				https://alyssaq.github.io/
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 机器学习教程
