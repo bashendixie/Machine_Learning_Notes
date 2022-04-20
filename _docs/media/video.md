@@ -5,16 +5,80 @@ order: 2
 ---
 
 > Blog
+
 [pyimagesearch](https://pyimagesearch.com/start-here/)
 
 
 > 机器学习教程
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				<strong>
+					课程
+				</strong>
+			</td>
+			<td width="88">
+				<strong>
+					网址
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					吴恩达机器学习课程
+				</p>
+			</td>
+			<td>
+				https://www.coursera.org/learn/machine-learning
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					机器学习专项课程
+				</p>
+			</td>
+			<td>
+				https://www.coursera.org/specializations/deep-learning#instructors
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					纽约大学机器学习课程
+				</p>
+			</td>
+			<td>
+				https://atcold.github.io/pytorch-Deep-Learning/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					纽约大学2019年春机器学习课程
+				</p>
+			</td>
+			<td>
+				https://davidrosenberg.github.io/ml2019/#home
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					MIT机器学习课程
+				</p>
+			</td>
+			<td>
+				http://introtodeeplearning.com/
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-[吴恩达机器学习课程](https://www.coursera.org/learn/machine-learning)
-[机器学习专项课程](https://www.coursera.org/specializations/deep-learning#instructors)
-[纽约大学机器学习课程](https://atcold.github.io/pytorch-Deep-Learning/)
-[纽约大学2019年春机器学习课程](https://davidrosenberg.github.io/ml2019/#home)
-[MIT机器学习课程](http://introtodeeplearning.com/)
+
+
 [fast.ai](https://course.fast.ai/)
 [说是一些论文](https://adeshpande3.github.io/)
 [机器学习](https://www.deeplearningbook.org/contents/ml.html)
@@ -25,6 +89,10 @@ order: 2
 [吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/deeplearning_ai_books)
 [吴恩达老师的深度学习课程笔记](http://www.ai-start.com/dl2017/)
 [吴恩达老师的深度学习课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+[支持向量机教程](https://www.svm-tutorial.com/)
+[深度学习500问](https://gitee.com/bashendixie/DeepLearning-500-questions/tree/master)
+[神经网络基本原理教程](https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/index.html)
+[深度学习课程](https://www.deeplearningbook.org/)
 
 > Python教程
 
@@ -48,8 +116,15 @@ order: 2
 
 > 统计课程
 
-[李航《统计学习方法》](https://mp.weixin.qq.com/s/71w0IN3gAYWxrKVM_lcYrQ)(https://github.com/fengdu78/lihang)
+[李航《统计学习方法》](https://mp.weixin.qq.com/s/71w0IN3gAYWxrKVM_lcYrQ)
+[李航《统计学习方法》](https://github.com/fengdu78/lihang)
 [宾夕法尼亚州立大学统计学教程](https://online.stat.psu.edu/statprogram/)
+
+
+> 优化课程
+
+[西北大学流程优化公开课本](https://optimization.mccormick.northwestern.edu/index.php/Main_Page)
+
 
 > 未知
 
