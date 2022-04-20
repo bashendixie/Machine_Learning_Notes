@@ -8,6 +8,9 @@ title: 学习笔记
 	<tbody>
 		<tr>
 			<td>
+				<a href="https://www.crystalclassics.com/swarovski/5583201.htm" target="_blank">Baby Yoda</a>
+			</td>
+			<td>
 				<a href="https://translate.google.cn/" target="_blank">Google翻译</a>
 			</td>
 			<td>
@@ -19,11 +22,12 @@ title: 学习笔记
 			<td>
 				<a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
 			</td>
-			<td>
-				<a href="https://www.crystalclassics.com/swarovski/5583201.htm" target="_blank">Baby Yoda</a>
-			</td>
+			
 		</tr>
 		<tr>
+			<td>
+				<a href="https://bashendixie.github.io/mathematics/" target="_blank">高等数学</a>
+			</td>
 			<td>
 				<a href="https://github.com/bashendixie?tab=repositories" target="_blank">github</a>
 			</td>
@@ -32,12 +36,6 @@ title: 学习笔记
 			</td>
 			<td>
 				<a href="https://drive.google.com/drive/my-drive" target="_blank">Google云端硬盘</a>
-			</td>
-			<td>
-				<a href="https://bashendixie.github.io/mathematics/" target="_blank">高等数学</a>
-			</td>
-			<td>
-				<a href="https://www.processon.com/" target="_blank">思维导图</a>
 			</td>
 		</tr>
 	</tbody>
@@ -81,6 +79,9 @@ title: 学习笔记
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
 		<tr>
+			<td>
+				<a href="https://www.processon.com/" target="_blank">思维导图</a>
+			</td>
 			<td>
 				<a href="https://www.jiayouyabeijing.com/cn/?a=gi9cp" target="_blank">极光</a>
 			</td>
@@ -145,6 +146,28 @@ title: 学习笔记
 		<tr>
 			<td>
 				<a href="https://msdn.itellyou.cn/" target="_blank">MSDN</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+> 杂记
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://chromatone.center/" target="_blank">Chromatone</a>
+			</td>
+			<td>
+				Chromatone是一项正在进行的研究和实验，旨在为个人音乐学习和探索以及集体实践和表演诱导同步人工联觉。
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://large.stanford.edu/courses/2011/ph240/" target="_blank">能量物理学导论</a>
+			</td>
+			<td>
+				能量物理学导论应用相关报告，涉及比较杂的知识。
 			</td>
 		</tr>
 	</tbody>
