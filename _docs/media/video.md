@@ -13,12 +13,12 @@ order: 2
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
 		<tr>
-			<td width="44">
+			<td>
 				<strong>
 					课程
 				</strong>
 			</td>
-			<td width="88">
+			<td>
 				<strong>
 					网址
 				</strong>
@@ -74,14 +74,42 @@ order: 2
 				http://introtodeeplearning.com/
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<p>
+					fast.ai
+				</p>
+			</td>
+			<td>
+				https://course.fast.ai/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					说是一些论文
+				</p>
+			</td>
+			<td>
+				https://adeshpande3.github.io/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					机器学习
+				</p>
+			</td>
+			<td>
+				https://www.deeplearningbook.org/contents/ml.html
+			</td>
+		</tr>
 	</tbody>
 </table>
 
 
 
-[fast.ai](https://course.fast.ai/)
-[说是一些论文](https://adeshpande3.github.io/)
-[机器学习](https://www.deeplearningbook.org/contents/ml.html)
+
 [Bishop - 模式识别和机器学习](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB_k_&gclid=Cj0KCQiA8_PfBRC3ARIsAOzJ2uodznM9nNbfR6WY9jSCQK4FNc3pHsR3xgp6J4Hc8i8WjhYPaliv3rUaAkBfEALw_wcB)
 [Bishop 的模式识别和机器学习](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 [Cs231n 的作业](http://cs231n.github.io/)
@@ -127,10 +155,62 @@ order: 2
 
 
 > 未知
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td>
+				<strong>
+					课程
+				</strong>
+			</td>
+			<td>
+				<strong>
+					网址
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					AngelList
+				</p>
+			</td>
+			<td>
+				https://platerecognizer.com/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					未知
+				</p>
+			</td>
+			<td>
+				https://stanford.edu/~shervine/teaching/cs-230.html
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					未知
+				</p>
+			</td>
+			<td>
+				http://distill.pub/
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					未知
+				</p>
+			</td>
+			<td>
+				https://github.com/fengdu78/Data-Science-Notes
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-[AngelList](https://platerecognizer.com/)
-[未知](https://stanford.edu/~shervine/teaching/cs-230.html)
-[未知](http://distill.pub/)
-[weizhi](https://github.com/fengdu78/Data-Science-Notes)
 
 ![](//placehold.it/800x600)
