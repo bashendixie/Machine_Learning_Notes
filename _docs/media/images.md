@@ -5,37 +5,4028 @@ order: 1
 ---
 
 > EDA、可视化和数据处理
-
-To share an image:
-
-1. Open a message with someone
-2. Select the **Send Media** button
-3. Pick an image
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="246">
+				<strong>
+					S No.
+				</strong>
+			</td>
+			<td width="160">
+				<strong>
+					Library
+				</strong>
+			</td>
+			<td width="41">
+				<strong>
+					Year Released
+				</strong>
+			</td>
+			<td width="619">
+				<strong>
+					Release Docs
+				</strong>
+			</td>
+			<td width="856">
+				<strong>
+					Tutorials
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				1
+			</td>
+			<td>
+				Plotnine / ggplot2
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://plotnine.readthedocs.io/en/stable/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://plotnine.readthedocs.io/en/stable/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-hands-on-guide-to-implementing-ggplot-in-python-using-plotnin"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2
+			</td>
+			<td>
+				JoyPy
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://github.com/leotac/joypy" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://github.com/leotac/joypy
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-hands-on-guide-to-joypy-for-drawing-interactive-joyplots/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				3
+			</td>
+			<td>
+				Hypertools
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://hypertools.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://hypertools.readthedocs.io/en/latest/#
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-visualize-and-manipulate-high-dimensional-data-using-hypertools/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				4
+			</td>
+			<td>
+				Alibi Detect
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://docs.seldon.io/projects/alibi-detect/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://docs.seldon.io/projects/alibi-detect/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-hands-on-guide-to-outlier-detection-with-alibi-detect/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				5
+			</td>
+			<td rowspan="2">
+				Pytorch Tabular
+			</td>
+			<td rowspan="2">
+				2021
+			</td>
+			<td rowspan="2">
+				<a href="https://pytorch-tabular.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pytorch-tabular.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-handle-tabular-data-for-deep-learning-using-pytorch-tabular/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/inside-pytorch-tabular-a-deep-learning-framework-for-tabular-data/"
+				data-wpel-link="internal">
+					2. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				6
+			</td>
+			<td>
+				PyeCharts
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://pyecharts.org/#/en-us/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://pyecharts.org/#/en-us/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-deep-dive-into-pyecharts-a-python-tool-for-data-visualization/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4">
+				&nbsp;
+			</td>
+			<td rowspan="4">
+				&nbsp;
+			</td>
+			<td rowspan="4">
+				&nbsp;
+			</td>
+			<td rowspan="4">
+				&nbsp;
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-different-visualizations-with-plotly-express-for-practitioners/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-use-plotly-in-colab/" data-wpel-link="internal">
+					2. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/plotly-vs-seaborn-compari/" data-wpel-link="internal">
+					3. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/10-free-resources-to-learn-plotly/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				8
+			</td>
+			<td>
+				Creme
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://maxhalford.github.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://maxhalford.github.io/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-learn-from-streaming-data-with-creme-in-python/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				9
+			</td>
+			<td>
+				GeoPandas
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://geopandas.org/en/stable/docs.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://geopandas.org/en/stable/docs.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-geopandas-for-geospatial-data-visualization/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				10
+			</td>
+			<td rowspan="2">
+				DataPrep
+			</td>
+			<td rowspan="2">
+				&nbsp;
+			</td>
+			<td rowspan="2">
+				&nbsp;
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/exploring-dataprep-a-python-library-for-data-preparation-eda/"
+				data-wpel-link="internal">
+					https://analyticsindiamag.com/exploring-dataprep-a-python-library-for-data-preparation-eda/
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/tutorial-for-dataprep-a-python-library-to-prepare-your-data-before-training/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				11
+			</td>
+			<td>
+				RTDL
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://yandex-research.github.io/rtdl/stable/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://yandex-research.github.io/rtdl/stable/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/creating-deep-learning-models-for-tabular-data-using-rtdl/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				12
+			</td>
+			<td>
+				Mito
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://docs.trymito.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://docs.trymito.io/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-mito-a-low-code-tool-for-exploratory-data-analysiseda/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				13
+			</td>
+			<td rowspan="2">
+				Augly
+			</td>
+			<td rowspan="2">
+				2021
+			</td>
+			<td rowspan="2">
+				<a href="https://github.com/facebookresearch/AugLy" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/facebookresearch/AugLy
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-to-augly-a-modern-data-augmentation-library/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/the-good-the-bad-and-the-augly-behind-facebooks-newly-open-sourced-library/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				14
+			</td>
+			<td>
+				Librosa
+			</td>
+			<td>
+				2014
+			</td>
+			<td>
+				<a href="https://librosa.org/doc/latest/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://librosa.org/doc/latest/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-librosa-for-handling-audio-files/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				15
+			</td>
+			<td>
+				PyXLL-Jupyter
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://www.pyxll.com/docs/videos/pyxll-jupyter.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://www.pyxll.com/docs/videos/pyxll-jupyter.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-pyxll-jupyter-package-for-excel-integration/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				16
+			</td>
+			<td>
+				EDA Libraries
+			</td>
+			<td>
+				&nbsp;
+			</td>
+			<td>
+				&nbsp;
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/insane-exploratory-data-analysis-libraries/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				17
+			</td>
+			<td>
+				OpenPyXL
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://openpyxl.readthedocs.io/en/stable/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://openpyxl.readthedocs.io/en/stable/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				18
+			</td>
+			<td>
+				Atoti
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://www.atoti.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://www.atoti.io/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/overview-of-atoti-a-python-bi-analytics-tool/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				19
+			</td>
+			<td>
+				labelCloud
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://github.com/ch-sa/labelCloud" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/ch-sa/labelCloud
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/labelcloud-python-tool-for-annotating-3d-point-clouds/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				20
+			</td>
+			<td>
+				Plot3D
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://cran.r-project.org/web/packages/plot3D/plot3D.pdf" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://cran.r-project.org/web/packages/plot3D/plot3D.pdf
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/visualize-data-in-3d-using-plot3d-r-package/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				21
+			</td>
+			<td>
+				PyMongo
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://pymongo.readthedocs.io/en/stable/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pymongo.readthedocs.io/en/stable/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pymongo-a-python-wrapper-for-mongodb/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				22
+			</td>
+			<td>
+				Pandas DataFrame
+			</td>
+			<td>
+				2014
+			</td>
+			<td>
+				<a href="https://pandas.pydata.org/pandas-docs/version/1.1.5/user_guide/dsintro.html#dataframe"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://pandas.pydata.org/pandas-docs/version/1.1.5/user_guide/dsintro.html#dataframe
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/comprehensive-guide-to-pandas-dataframes-with-python-codes/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				23
+			</td>
+			<td rowspan="2">
+				DataPane
+			</td>
+			<td rowspan="2">
+				2020
+			</td>
+			<td rowspan="2">
+				<a href="https://docs.datapane.com/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://docs.datapane.com/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/creating-interactive-data-reports-with-datapane/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-datapane-python-tool-for-reporting-and-visualization/"
+				data-wpel-link="internal">
+					2. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				24
+			</td>
+			<td>
+				SDV
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://sdv.dev/SDV/index.html" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://sdv.dev/SDV/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-synthetic-data-vault-an-ecosystem-of-synthetic-data-generation-libraries/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				25
+			</td>
+			<td>
+				Querybook
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/pinterest/querybook" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/pinterest/querybook
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/pinterest-open-sources-big-data-analytics-tool-querybook-major-features-set-up-instructions/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				26
+			</td>
+			<td>
+				DSNE
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://github.com/songtingstone/dsne" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/songtingstone/dsne
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-to-dsne-a-velocity-visualization-tool/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				27
+			</td>
+			<td>
+				DDSP
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/magenta/ddsp" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://github.com/magenta/ddsp
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-differentiable-digital-signal-processing-ddsp-library-with-python-code/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				28
+			</td>
+			<td>
+				PyDictionary
+			</td>
+			<td>
+				2014
+			</td>
+			<td>
+				<a href="https://github.com/geekpradd/PyDictionary" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/geekpradd/PyDictionary
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-on-pydictionary-a-real-dictionary-module-in-python/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				29
+			</td>
+			<td>
+				Visualizer
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/MosaabMuhammed/visualizer" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/MosaabMuhammed/visualizer
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-to-visualizer-python-library-for-automating-visualization/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				30
+			</td>
+			<td>
+				Folium
+			</td>
+			<td>
+				2014
+			</td>
+			<td>
+				<a href="https://python-visualization.github.io/folium/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://python-visualization.github.io/folium/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-folium-python-library-for-geographical-data-visualization/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				31
+			</td>
+			<td>
+				Bokeh
+			</td>
+			<td>
+				2013
+			</td>
+			<td>
+				<a href="https://bokeh.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://bokeh.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-bokeh-open-source-python-library-for-interactive-visualizations/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				32
+			</td>
+			<td>
+				faker
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://www.npmjs.com/package/faker" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://www.npmjs.com/package/faker
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/faker-tutorial-a-python-library-to-create-your-own-dataset/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				33
+			</td>
+			<td>
+				Autoplotter
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/ersaurabhverma/autoplotter" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/ersaurabhverma/autoplotter
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/autoplotter-tutorial-open-source-python-library-for-gui-based-eda/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				34
+			</td>
+			<td>
+				Numpy
+			</td>
+			<td>
+				2006
+			</td>
+			<td>
+				<a href="https://numpy.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://numpy.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/beginners-guide-numpy-must-python-library-data-scientist-toolkit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				35
+			</td>
+			<td>
+				Seaborn
+			</td>
+			<td>
+				2013
+			</td>
+			<td>
+				<a href="https://seaborn.pydata.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://seaborn.pydata.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-beginners-guide-to-seaborn-pythons-visualization-library/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				36
+			</td>
+			<td>
+				Meerkat
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://meerkat.readthedocs.io/en/latest/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://meerkat.readthedocs.io/en/latest/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/meet-meerkat-a-new-data-library-to-wrangle-complex-ml-datasets/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				37
+			</td>
+			<td>
+				Featuretools
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://www.featuretools.com/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://www.featuretools.com/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				38
+			</td>
+			<td>
+				Mayavi
+			</td>
+			<td>
+				2015
+			</td>
+			<td>
+				<a href="http://docs.enthought.com/mayavi/mayavi/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					http://docs.enthought.com/mayavi/mayavi/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				39
+			</td>
+			<td>
+				Lux
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://lux-api.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://lux-api.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/python-guide-to-lux-an-interactive-visual-discovery/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				40
+			</td>
+			<td>
+				PyOD
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://pyod.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pyod.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				41
+			</td>
+			<td>
+				PyVista
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://docs.pyvista.org/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://docs.pyvista.org/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-pyvista-a-python-package-for-3d-plotting-and-mesh-analysis/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				42
+			</td>
+			<td>
+				Pytorch 3D
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://pytorch3d.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pytorch3d.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-pytorch3d-a-library-for-deep-learning-with-3d-data/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				43
+			</td>
+			<td>
+				Tabulate
+			</td>
+			<td>
+				2013
+			</td>
+			<td>
+				<a href="https://github.com/astanin/python-tabulate" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/astanin/python-tabulate
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/beginners-guide-to-tabulate-python-tool-for-creating-nicely-formatted-tables/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				44
+			</td>
+			<td>
+				Datatable
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://datatable.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://datatable.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-datatable-library-for-faster-eda/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				45
+			</td>
+			<td>
+				Graphviz
+			</td>
+			<td>
+				2014
+			</td>
+			<td>
+				<a href="https://graphviz.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://graphviz.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-graphviz-python-tool-to-define-and-visualize-graphs/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				46
+			</td>
+			<td>
+				Missingo
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://github.com/ResidentMario/missingno" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/ResidentMario/missingno
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/tutorial-on-missingno-python-tool-to-visualize-missing-values/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				47
+			</td>
+			<td>
+				Lens
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://lens.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://lens.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				48
+			</td>
+			<td>
+				Altair
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://altair-viz.github.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://altair-viz.github.io/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-on-altair-python-tool-for-attractive-data-visualizations/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				49
+			</td>
+			<td>
+				DearPyGui
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://dearpygui.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://dearpygui.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-tutorial-on-dearpygui-gpu-accelerated-python-gui-framework/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				50
+			</td>
+			<td>
+				Pygal
+			</td>
+			<td>
+				2012
+			</td>
+			<td>
+				<a href="https://www.pygal.org/en/stable/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://www.pygal.org/en/stable/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-tutorial-on-pygal-a-python-tool-for-interactive-and-scalable-visualization/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				51
+			</td>
+			<td>
+				Pyjanitor
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://github.com/pyjanitor-devs/pyjanitor" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/pyjanitor-devs/pyjanitor
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				52
+			</td>
+			<td>
+				Pattern
+			</td>
+			<td>
+				2011
+			</td>
+			<td>
+				<a href="https://github.com/clips/pattern" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://github.com/clips/pattern
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-pattern-a-python-tool-for-effective-text-processing-and-data-mining/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				53
+			</td>
+			<td>
+				AutoFeat
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://github.com/cod3licious/autofeat" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/cod3licious/autofeat
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				54
+			</td>
+			<td>
+				pandas-visual-analysis
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://pandas-visual-analysis.readthedocs.io/en/latest/?badge=latest"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://pandas-visual-analysis.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-pandas-visual-analysis-way-to-speed-up-data-visualization/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				55
+			</td>
+			<td>
+				Holoviews
+			</td>
+			<td>
+				2015
+			</td>
+			<td>
+				<a href="https://www.holoviews.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://www.holoviews.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-holoviews-automated-visualization-based-on-short-data-annotations/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				56
+			</td>
+			<td>
+				Vaex
+			</td>
+			<td>
+				2015
+			</td>
+			<td>
+				<a href="https://vaex.io/docs/installing.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://vaex.io/docs/installing.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-vaex-tool-to-overcome-drawbacks-of-pandas/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				57
+			</td>
+			<td>
+				Exploripy
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://github.com/exploripy/exploripy" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/exploripy/exploripy
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				58
+			</td>
+			<td>
+				dtale
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://github.com/man-group/dtale" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/man-group/dtale
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 时间序列
-
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				<strong>
+					S No.
+				</strong>
+			</td>
+			<td width="201">
+				<strong>
+					Library
+				</strong>
+			</td>
+			<td width="108">
+				<strong>
+					Year Released
+				</strong>
+			</td>
+			<td width="381">
+				<strong>
+					Release Docs
+				</strong>
+			</td>
+			<td width="907">
+				<strong>
+					Tutorials
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				1&nbsp;
+			</td>
+			<td>
+				Tsfresh (feature engineering)
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://tsfresh.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://tsfresh.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-feature-engineering-in-time-series-with-tsfresh/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2
+			</td>
+			<td>
+				Kats
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://facebookresearch.github.io/Kats/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://facebookresearch.github.io/Kats/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-kats-python-tool-by-meta-for-effective-time-series-analysis/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				3
+			</td>
+			<td rowspan="2">
+				Merlion
+			</td>
+			<td rowspan="2">
+				2021
+			</td>
+			<td rowspan="2">
+				<a href="https://github.com/salesforce/Merlion#documentation" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/salesforce/Merlion#documentation
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/merlion-salesforces-latest-time-series-library-how-to-use-it-with-python-code/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/merlion-an-open-source-library/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				4
+			</td>
+			<td>
+				RecBole
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://recbole.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://recbole.io/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-recbole-recommendation-algorithms/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				5
+			</td>
+			<td>
+				GreyKite
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://linkedin.github.io/greykite/get_started" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://linkedin.github.io/greykite/get_started
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/linkedin-open-sources-this-new-library-for-time-series-forecasting/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				6
+			</td>
+			<td>
+				Prophet
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://facebook.github.io/prophet/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://facebook.github.io/prophet/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/comprehensive-guide-to-facebooks-prophet-with-python-code/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				7
+			</td>
+			<td>
+				giotto-time
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://docs-time.giotto.ai/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://docs-time.giotto.ai/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-giotto-time-a-time-series-forecasting-python-library/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				8
+			</td>
+			<td>
+				Top 10 Libraries
+			</td>
+			<td>
+				&nbsp;
+			</td>
+			<td>
+				&nbsp;
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/top-10-python-tools-for-time-series-analysis/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				9
+			</td>
+			<td>
+				TimeSynth
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://github.com/TimeSynth/TimeSynth" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/TimeSynth/TimeSynth
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-timesynth-a-python-library-for-synthetic-time-series-generation/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				10
+			</td>
+			<td>
+				Arrow
+			</td>
+			<td>
+				2015
+			</td>
+			<td>
+				<a href="https://arrow.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://arrow.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-to-arrow-a-python-library-for-user-friendly-handling-of-dates-time-and-timestamps/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				11
+			</td>
+			<td>
+				Sktime
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://www.sktime.org/en/stable/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://www.sktime.org/en/stable/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/sktime-library/" data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				12
+			</td>
+			<td>
+				PyFlux
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://pyflux.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pyflux.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				13
+			</td>
+			<td>
+				orbit
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://orbit-ml.readthedocs.io/en/stable/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://orbit-ml.readthedocs.io/en/stable/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-orbit-ubers-python-framework-for-bayesian-forecasting-inference/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				14
+			</td>
+			<td>
+				Pastas
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://pastas.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pastas.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pastas-a-python-framework-for-hydrogeological-time-series-analysis/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				15
+			</td>
+			<td>
+				Darts
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://unit8co.github.io/darts/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://unit8co.github.io/darts/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-darts-a-python-tool-for-time-series-forecasting/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				16
+			</td>
+			<td>
+				StreamLit
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://streamlit.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://streamlit.io/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-deploy-time-series-forecasting-models-using-streamlit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				17
+			</td>
+			<td>
+				AutoTS
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/winedarksea/AutoTS" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/winedarksea/AutoTS
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 推荐系统
-
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				<strong>
+					S No.
+				</strong>
+			</td>
+			<td width="201">
+				<strong>
+					Library
+				</strong>
+			</td>
+			<td width="108">
+				<strong>
+					Year Released
+				</strong>
+			</td>
+			<td width="381">
+				<strong>
+					Release Docs
+				</strong>
+			</td>
+			<td width="907">
+				<strong>
+					Tutorials
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					1
+				</p>
+			</td>
+			<td>
+				torchrec
+			</td>
+			<td>
+				2022
+			</td>
+			<td>
+				<a href="https://pytorch.org/torchrec/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://pytorch.org/torchrec/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/pytorch-introduces-torchrec-an-open-source-library-to-build-recommendation-systems/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2
+			</td>
+			<td>
+				Lenskit
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://lkpy.readthedocs.io/en/stable/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://lkpy.readthedocs.io/en/stable/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-build-recommender-systems-using-lenskit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				3
+			</td>
+			<td>
+				RGRecSys
+			</td>
+			<td>
+				2022&nbsp;
+			</td>
+			<td>
+				<a href="https://github.com/salesforce/RGRecSys" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/salesforce/RGRecSys
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-evaluate-recommender-systems-with-rgrecsys/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				4
+			</td>
+			<td>
+				Surprise&nbsp;
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://surprise.readthedocs.io/en/stable/getting_started.html"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://surprise.readthedocs.io/en/stable/getting_started.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-surprise-python-tool-for-recommender-systems/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				5
+			</td>
+			<td>
+				Tensorflow Recommenders
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-complete-guide-to-tensorflow-recommenders-with-python-code/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 异常检测
-
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				<strong>
+					S No.
+				</strong>
+			</td>
+			<td width="201">
+				<strong>
+					Library
+				</strong>
+			</td>
+			<td width="108">
+				<strong>
+					Year Released
+				</strong>
+			</td>
+			<td width="381">
+				<strong>
+					Release Docs
+				</strong>
+			</td>
+			<td width="907">
+				<strong>
+					Tutorials
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					1
+				</p>
+			</td>
+			<td>
+				Pyfbad
+			</td>
+			<td>
+				2022
+			</td>
+			<td>
+				<a href="https://github.com/Teknasyon-Teknoloji/pyfbad" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/Teknasyon-Teknoloji/pyfbad
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-end-to-end-anomaly-detection-using-pyfbad/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 模型可视化、优化和稳健性
-
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				<strong>
+					S No.
+				</strong>
+			</td>
+			<td width="201">
+				<strong>
+					Library
+				</strong>
+			</td>
+			<td width="108">
+				<strong>
+					Year Released
+				</strong>
+			</td>
+			<td width="381">
+				<strong>
+					Release Docs
+				</strong>
+			</td>
+			<td width="907">
+				<strong>
+					Tutorials
+				</strong>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">
+				<p>
+					1
+				</p>
+			</td>
+			<td rowspan="3">
+				PyCaret
+			</td>
+			<td rowspan="3">
+				2020
+			</td>
+			<td rowspan="3">
+				<a href="https://pycaret.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://pycaret.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-visualize-different-ml-models-using-pycaret-for-optimization/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/building-an-ml-classification-model-using-pycaret/"
+				data-wpel-link="internal">
+					2. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-interpretable-association-rule-mining-using-pycaret/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				2
+			</td>
+			<td>
+				Quantus
+			</td>
+			<td>
+				2022
+			</td>
+			<td>
+				<a href="https://github.com/understandable-machine-intelligence-lab/Quantus"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://github.com/understandable-machine-intelligence-lab/Quantus
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-quantus-an-explainable-ai-toolkit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				3
+			</td>
+			<td>
+				Auto-ViML
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://readthedocs.org/projects/auto-viml/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://readthedocs.org/projects/auto-viml/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-auto-viml-for-explainable-and-interpretable-machine-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				4
+			</td>
+			<td>
+				AdverTorch
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://advertorch.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://advertorch.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-advertorch-python-toolbox-for-adversarial-robustness/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				5
+			</td>
+			<td>
+				OMLT
+			</td>
+			<td>
+				2022
+			</td>
+			<td>
+				<a href="https://omlt.readthedocs.io/en/latest/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://omlt.readthedocs.io/en/latest/index.html#
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-omlt-an-optimization-machine-learning-toolkit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				6
+			</td>
+			<td>
+				CausalML
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://causalml.readthedocs.io/en/latest/about.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://causalml.readthedocs.io/en/latest/about.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/what-is-uplift-modelling-and-how-can-it-be-done-with-causalml/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				7
+			</td>
+			<td>
+				HpbandSter
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://automl.github.io/HpBandSter/build/html/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://automl.github.io/HpBandSter/build/html/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-hyperparameter-optimization-using-hpbandster/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				8
+			</td>
+			<td>
+				Foolbox
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://foolbox.jonasrauber.de/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://foolbox.jonasrauber.de/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-ensure-robustness-of-neural-networks-using-foolbox/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				9
+			</td>
+			<td>
+				Hyperopt
+			</td>
+			<td>
+				2013
+			</td>
+			<td>
+				<a href="http://hyperopt.github.io/hyperopt/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					http://hyperopt.github.io/hyperopt/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-use-hyperopt-for-distributed-hyperparameter-optimisation/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				10
+			</td>
+			<td>
+				SHAP
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://shap.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://shap.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-complete-guide-to-shap-shapley-additive-explanations-for-practitioners/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				11
+			</td>
+			<td>
+				Cockpit
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://cockpit.readthedocs.io/en/latest/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://cockpit.readthedocs.io/en/latest/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-cockpit-a-debugging-tool-for-deep-learning-models/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				12
+			</td>
+			<td>
+				Visualkeras
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/paulgavrikov/visualkeras" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/paulgavrikov/visualkeras
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-visualize-deep-learning-models-using-visualkeras/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				13
+			</td>
+			<td>
+				ELI5
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://eli5.readthedocs.io/en/latest/overview.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://eli5.readthedocs.io/en/latest/overview.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-visualize-and-debug-machine-learning-models-using-eli5/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				14
+			</td>
+			<td>
+				OpenBox
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://open-box.readthedocs.io/en/latest/overview/overview.html"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://open-box.readthedocs.io/en/latest/overview/overview.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-openbox-toolkit-for-black-box-optimization/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				15
+			</td>
+			<td>
+				SMAC
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://automl.github.io/SMAC3/master/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://automl.github.io/SMAC3/master/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-algorithm-configuration-using-smac/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				16
+			</td>
+			<td>
+				LazyPredict&nbsp;
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://lazypredict.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://lazypredict.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/visualizing-and-comparing-ml-models-using-lazypredict/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				17
+			</td>
+			<td>
+				Captum
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://captum.ai/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://captum.ai/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/facebook-gives-away-captum-for-free-its-model-interpretability-library-for-pytorch/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				18
+			</td>
+			<td>
+				Vowpal Wabbit
+			</td>
+			<td>
+				2014
+			</td>
+			<td>
+				<a href="https://vowpalwabbit.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://vowpalwabbit.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-vowpal-wabbit-a-state-of-the-art-library-for-interactive-machine-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				19
+			</td>
+			<td>
+				Optuna
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://optuna.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://optuna.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-python-guide-to-optuna-a-new-hyperparameter-optimization-tool/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				20
+			</td>
+			<td>
+				Yellowbrick
+			</td>
+			<td>
+				2016
+			</td>
+			<td>
+				<a href="https://www.scikit-yb.org/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://www.scikit-yb.org/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/yellowbrick-hands-on-guide-a-python-tool-for-machine-learning-visualizations/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				21
+			</td>
+			<td>
+				Adversarial Robustness Toolbox
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://adversarial-robustness-toolbox.readthedocs.io/en/latest/?badge=latest"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://adversarial-robustness-toolbox.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/adversarial-robustness-toolbox-art/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				22
+			</td>
+			<td>
+				FLAML
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/microsoft/FLAML" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/microsoft/FLAML
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-microsofts-flaml/" data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 > 自然语言处理 (NLP)
-
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				S No.
+			</td>
+			<td width="101">
+				Library
+			</td>
+			<td width="103">
+				Year Released
+			</td>
+			<td width="388">
+				Release Docs
+			</td>
+			<td width="772">
+				Tutorials
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				1
+			</td>
+			<td width="101">
+				GluonNLP
+			</td>
+			<td width="103">
+				2018
+			</td>
+			<td width="388">
+				<a href="https://nlp.gluon.ai/index.html" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://nlp.gluon.ai/index.html
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/a-guide-to-gluonnlp-deep-learning-framework-for-nlp/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				2
+			</td>
+			<td width="101">
+				Gensim
+			</td>
+			<td width="103">
+				2016
+			</td>
+			<td width="388">
+				<a href="https://radimrehurek.com/gensim/index.htm" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://radimrehurek.com/gensim/index.htm
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/getting-started-with-gensim-for-basic-nlp-tasks/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				3
+			</td>
+			<td width="101">
+				ECCO
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://ecco.readthedocs.io/en/main/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://ecco.readthedocs.io/en/main/
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/a-guide-to-ecco-python-based-tool-for-explainability-of-transformers/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				4
+			</td>
+			<td width="101">
+				Perceiver IO
+			</td>
+			<td width="103">
+				2021
+			</td>
+			<td width="388">
+				<a href="https://huggingface.co/docs/transformers/model_doc/perceiver"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://huggingface.co/docs/transformers/model_doc/perceiver
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-hugging-face-perceiverio-for-text-classification/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				5
+			</td>
+			<td width="101">
+				NeuSpell
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://github.com/neuspell/neuspell#Installation" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/neuspell/neuspell#Installation
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/neuspell-a-neural-net-based-spelling-correction-toolkit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				6
+			</td>
+			<td width="101">
+				Datasets
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://huggingface.co/docs/datasets/index" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://huggingface.co/docs/datasets/index
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/datasets-a-community-library-for-nlp-by-hugging-face/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" width="44">
+				7
+			</td>
+			<td rowspan="2" width="101">
+				TextBlob
+			</td>
+			<td rowspan="2" width="103">
+				2013
+			</td>
+			<td rowspan="2" width="388">
+				<a href="https://textblob.readthedocs.io/en/dev/quickstart.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://textblob.readthedocs.io/en/dev/quickstart.html
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/how-to-obtain-a-sentiment-score-for-a-sentence-using-textblob/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/lets-learn-textblob-quickstart-a-python-library-for-processing-textual-data/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				8
+			</td>
+			<td width="101">
+				OpenNRE
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://opennre-docs.readthedocs.io/en/latest/get_started/introduction.html"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://opennre-docs.readthedocs.io/en/latest/get_started/introduction.html
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/beginners-guide-to-opennre-toolkit/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				9
+			</td>
+			<td width="101">
+				Small-Text
+			</td>
+			<td width="103">
+				2021
+			</td>
+			<td width="388">
+				<a href="https://small-text.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://small-text.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-small-text-a-python-tool-for-active-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				10
+			</td>
+			<td width="101">
+				PySentimiento
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://github.com/pysentimiento/pysentimiento" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/pysentimiento/pysentimiento
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/guide-to-pysentimiento-toolkit-text-classification-using-transformers/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				11
+			</td>
+			<td width="101">
+				FastText
+			</td>
+			<td width="103">
+				2017
+			</td>
+			<td width="388">
+				<a href="https://fasttext.cc/docs/en/supervised-tutorial.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://fasttext.cc/docs/en/supervised-tutorial.html
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/guide-to-facebooks-fasttext-for-text-representations-and-classifiers/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				12
+			</td>
+			<td width="101">
+				CleanText
+			</td>
+			<td width="103">
+				2021
+			</td>
+			<td width="388">
+				<a href="https://github.com/prasanthg3/cleantext" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/prasanthg3/cleantext
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				13
+			</td>
+			<td width="101">
+				skweak
+			</td>
+			<td width="103">
+				2021
+			</td>
+			<td width="388">
+				<a href="https://github.com/NorskRegnesentral/skweak/tree/a842b88fa18dc0690d7bf26202d40a67bb8d3725"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://github.com/NorskRegnesentral/skweak/tree/a842b88fa18dc0690d7bf26202d40a67bb8d3725
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/meet-skweak-a-python-toolkit-for-applying-weak-supervision-to-nlp-tasks/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				14
+			</td>
+			<td width="101">
+				StanfordNLP
+			</td>
+			<td width="103">
+				2019
+			</td>
+			<td width="388">
+				<a href="https://stanfordnlp.github.io/stanfordnlp/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://stanfordnlp.github.io/stanfordnlp/
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-stanfordnlp-a-python-wrapper-for-popular-nlp-library-corenlp/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				15
+			</td>
+			<td width="101">
+				polyglot
+			</td>
+			<td width="103">
+				2014
+			</td>
+			<td width="388">
+				<a href="http://polyglot.readthedocs.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					http://polyglot.readthedocs.org/
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/hands-on-tutorial-on-polyglot-python-toolkit-for-multilingual-nlp-applications/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				16
+			</td>
+			<td width="101">
+				text2emotion
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://github.com/aman2656/text2emotion-library" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/aman2656/text2emotion-library
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/social-media-monitoring-emotional-analysis-using-text2emotion-in-python/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				17
+			</td>
+			<td width="101">
+				NLP-Profiler
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://github.com/neomatrix369/nlp_profiler" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/neomatrix369/nlp_profiler
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/complete-guide-on-nlp-profiler-python-tool-for-profiling-of-textual-dataset/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				18
+			</td>
+			<td width="101">
+				texthero
+			</td>
+			<td width="103">
+				2020
+			</td>
+			<td width="388">
+				<a href="https://github.com/jbesomi/texthero" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/jbesomi/texthero
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/texthero-guide-a-python-toolkit-for-text-processing/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				19
+			</td>
+			<td width="101">
+				Stanza
+			</td>
+			<td width="103">
+				2017
+			</td>
+			<td width="388">
+				<a href="https://stanfordnlp.github.io/stanza/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://stanfordnlp.github.io/stanza/
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/stanza-a-new-nlp-library-by-stanford/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				20
+			</td>
+			<td width="101">
+				Spacy
+			</td>
+			<td width="103">
+				2015
+			</td>
+			<td width="388">
+				<a href="https://spacy.io/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://spacy.io/
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/nlp-deep-learning-nlp-framework-nlp-model/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td width="44">
+				21
+			</td>
+			<td width="101">
+				scattertext
+			</td>
+			<td width="103">
+				2016
+			</td>
+			<td width="388">
+				<a href="https://github.com/JasonKessler/scattertext" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/JasonKessler/scattertext
+				</a>
+			</td>
+			<td width="772">
+				<a href="https://analyticsindiamag.com/visualizing-sentiment-analysis-reports-using-scattertext-nlp-tool/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 
 > 模型拟合和 AutoML
-
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td width="44">
+				S No.
+			</td>
+			<td width="172">
+				Library
+			</td>
+			<td width="103">
+				Year Released
+			</td>
+			<td width="595">
+				Release Docs
+			</td>
+			<td width="975">
+				Tutorials
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					1
+				</p>
+			</td>
+			<td>
+				Torchbearer
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="http://www.pytorchbearer.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					http://www.pytorchbearer.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-use-torchbearer-for-fitting-ml-models-with-pytorch/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				2
+			</td>
+			<td rowspan="2">
+				TensorLayer
+			</td>
+			<td rowspan="2">
+				2017
+			</td>
+			<td rowspan="2">
+				<a href="https://tensorlayer.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://tensorlayer.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-tensorlayer-for-efficient-deep-learning-development/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/what-is-tensorlayer-and-how-is-it-different-from-tensorflows-other-machine-learning-libraries/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				3
+			</td>
+			<td>
+				AdaNet
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://adanet.readthedocs.io/en/v0.9.0/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://adanet.readthedocs.io/en/v0.9.0/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-ensemble-neural-networks-using-adanet/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				4
+			</td>
+			<td>
+				Ludwig
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://ludwig-ai.github.io/ludwig-docs/0.4/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://ludwig-ai.github.io/ludwig-docs/0.4/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/ludwig-a-type-based-declarative-deep-learning-toolbox/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				5
+			</td>
+			<td>
+				Chainer
+			</td>
+			<td>
+				2015
+			</td>
+			<td>
+				<a href="https://chainer.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://chainer.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-chainer-a-flexible-toolkit-for-neural-networks/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				6
+			</td>
+			<td rowspan="2">
+				Dask
+			</td>
+			<td rowspan="2">
+				2015
+			</td>
+			<td rowspan="2">
+				<a href="https://docs.dask.org/en/stable/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://docs.dask.org/en/stable/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-dask-parallel-computing-tool-in-python-for-big-data/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/why-you-should-use-dask-if-you-are-into-data-science-and-machine-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				7
+			</td>
+			<td>
+				River
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://riverml.xyz/latest/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://riverml.xyz/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-river-a-python-tool-for-online-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				8
+			</td>
+			<td>
+				AutoGluon
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://auto.gluon.ai/stable/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://auto.gluon.ai/stable/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/a-guide-to-using-autogluon-for-automating-machine-learning-tasks/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				9
+			</td>
+			<td>
+				PaDELPy&nbsp;
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="http://www.yapcwsoft.com/dd/padeldescriptor/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					http://www.yapcwsoft.com/dd/padeldescriptor/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-padelpy-for-ml-model-building/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				10
+			</td>
+			<td>
+				PyKale
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://pykale.readthedocs.io/en/latest/introduction.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pykale.readthedocs.io/en/latest/introduction.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-pykale-a-python-tool-for-multimodal-and-transfer-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				11
+			</td>
+			<td>
+				Qiskit
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html"
+				data-wpel-link="external" target="_blank" rel="follow">
+					https://qiskit.org/documentation/tutorials/circuits/1_getting_started_with_qiskit.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/beginners-guide-to-qiskit-for-quantum-computing/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				12
+			</td>
+			<td rowspan="2">
+				PySpark
+			</td>
+			<td rowspan="2">
+				2014
+			</td>
+			<td rowspan="2">
+				<a href="https://spark.apache.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://spark.apache.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/beginners-guide-to-machine-learning-with-apache-spark/"
+				data-wpel-link="internal">
+					1. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://analyticsindiamag.com/beginners-guide-to-pyspark-how-to-set-up-apache-spark-on-aws/"
+				data-wpel-link="internal">
+					2. 教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				13
+			</td>
+			<td>
+				EasyGA
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/danielwilczak101/EasyGA" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/danielwilczak101/EasyGA
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/genetic-algorithms-made-easy-with-easyga/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				14
+			</td>
+			<td>
+				XBNet
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://github.com/tusharsarkar3/XBNet" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/tusharsarkar3/XBNet
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-xbnet-an-extremely-boosted-neural-network/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				15
+			</td>
+			<td>
+				Py-MAF
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://hongwenzhang.github.io/pymaf/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://hongwenzhang.github.io/pymaf/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pymaf-pyramidal-mesh-alignment-feedback/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				16
+			</td>
+			<td>
+				Avalanche&nbsp;
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://avalanche.continualai.org/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://avalanche.continualai.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/avalanche-a-python-library-for-continual-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				17
+			</td>
+			<td>
+				Flashlight
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://fl.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://fl.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/flashlight-facebook-launches-ml-library-built-on-c/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				18
+			</td>
+			<td>
+				PyTerrier
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://pyterrier.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pyterrier.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pyterrier-a-python-framework-for-information-retrieval/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				19
+			</td>
+			<td>
+				GpBoost
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://github.com/fabsig/GPBoost" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://github.com/fabsig/GPBoost
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-gpboost-a-machine-learning-library-to-combine-tree-boosting/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				20
+			</td>
+			<td>
+				Pykg2vec
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://pykg2vec.readthedocs.io/en/latest/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://pykg2vec.readthedocs.io/en/latest/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/pykg2vec/" data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				21
+			</td>
+			<td>
+				TensorLy
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="http://tensorly.org/stable/index.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					http://tensorly.org/stable/index.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-tensorly-a-python-library-for-tensor-learning/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				22
+			</td>
+			<td>
+				GPyTorch
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://gpytorch.ai/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://gpytorch.ai/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-gpytorch-a-python-library-for-gaussian-process-models/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				23
+			</td>
+			<td>
+				Nevergrad
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://facebookresearch.github.io/nevergrad/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://facebookresearch.github.io/nevergrad/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/fbs-new-python-library-nevergrad-provides-a-collection-of-algorithms-that-dont-require-gradient-computation/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				24
+			</td>
+			<td>
+				pm4Py
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://pm4py.fit.fraunhofer.de/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://pm4py.fit.fraunhofer.de/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pm4py-python-framework-for-process-mining-algorithms/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				25
+			</td>
+			<td>
+				AmpliGraph
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://docs.ampligraph.org/en/1.4.0/?badge=latest" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://docs.ampligraph.org/en/1.4.0/?badge=latest
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-ampligraph-a-machine-learning-library-for-knowledge-graphs/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				26
+			</td>
+			<td>
+				PyTorch Metric Learning
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://kevinmusgrave.github.io/pytorch-metric-learning/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://kevinmusgrave.github.io/pytorch-metric-learning/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pytorch-metric-learning-a-library-for-implementing-metric-learning-algorithms/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				27
+			</td>
+			<td>
+				learn2learn
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="http://learn2learn.net/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					http://learn2learn.net/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-learn2learn-a-library-for-meta-learning-research/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				28
+			</td>
+			<td>
+				OpenFL
+			</td>
+			<td>
+				2021
+			</td>
+			<td>
+				<a href="https://openfl.readthedocs.io/en/latest/install.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://openfl.readthedocs.io/en/latest/install.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-open-federated-learning-openfl-an-intels-python-framework/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				29
+			</td>
+			<td>
+				Pgmpy
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://pgmpy.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://pgmpy.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-pgmpy-probabilistic-graphical-models-with-python-code/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				30
+			</td>
+			<td>
+				Allenact
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://allenact.org/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://allenact.org/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-python-guide-to-allenact-an-embodied-ai-project/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				31
+			</td>
+			<td>
+				Torchmeta
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://tristandeleu.github.io/pytorch-meta/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://tristandeleu.github.io/pytorch-meta/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-torchmeta-a-meta-learning-library-for-pytorch/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				32
+			</td>
+			<td>
+				LAMA
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://lightautoml.readthedocs.io/en/latest/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://lightautoml.readthedocs.io/en/latest/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-python-guide-to-lama-an-automatic-ml-model-creation-framework/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				33
+			</td>
+			<td>
+				Wandb
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://wandb.ai/site" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://wandb.ai/site
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				34
+			</td>
+			<td>
+				Hummingbird&nbsp;
+			</td>
+			<td>
+				2020
+			</td>
+			<td>
+				<a href="https://microsoft.github.io/hummingbird/" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://microsoft.github.io/hummingbird/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/guide-to-hummingbird-a-microsofts-library-for-expediting-traditional-machine-learning-models/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				35
+			</td>
+			<td>
+				dabl
+			</td>
+			<td>
+				2019
+			</td>
+			<td>
+				<a href="https://github.com/amueller/dabl" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://github.com/amueller/dabl
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/lets-learn-dabl-a-python-tool-for-data-analysis-and-ml-automation/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				36
+			</td>
+			<td>
+				comet_ml
+			</td>
+			<td>
+				2017
+			</td>
+			<td>
+				<a href="https://www.comet.ml/docs/" data-wpel-link="external" target="_blank"
+				rel="follow">
+					https://www.comet.ml/docs/
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/how-to-supercharge-your-machine-learning-experiments-with-comet-ml/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				37
+			</td>
+			<td>
+				Voila
+			</td>
+			<td>
+				2018
+			</td>
+			<td>
+				<a href="https://voila.readthedocs.io/en/stable/install.html" data-wpel-link="external"
+				target="_blank" rel="follow">
+					https://voila.readthedocs.io/en/stable/install.html
+				</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/complete-guide-to-voila-to-turn-a-jupyter-notebook-into-a-standalone-web-application/"
+				data-wpel-link="internal">
+					教程
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 
 
