@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: Contact Syncing
+category: 计算机视觉
 order: 2
 ---
 
