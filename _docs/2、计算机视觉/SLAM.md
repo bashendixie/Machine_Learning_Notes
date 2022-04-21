@@ -1,7 +1,7 @@
 ---
 title: SLAM
 category: 计算机视觉
-order: 2
+order: 3
 ---
 
 > SLAM
