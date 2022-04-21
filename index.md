@@ -118,13 +118,10 @@ title: 学习笔记
 				<a href="https://ausososo.space/zh-TW/help" target="_blank">auVpn</a>
 			</td>
 			<td>
-				<a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
+				<a href="https://msdn.itellyou.cn/" target="_blank">MSDN</a>
 			</td>
 			<td>
 				<a href="https://idea.medeming.com/" target="_blank">IDEA激活</a>
-			</td>
-			<td>
-				<a href="http://www.xitongcheng.com/jiaocheng/win10_article_45072.html" target="_blank">Win10激活</a>
 			</td>
 		</tr>
 		
@@ -167,11 +164,6 @@ title: 学习笔记
 			</td>
 			<td>
 				<a href="https://fossies.org/windows/misc/" target="_blank">Win软件</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://msdn.itellyou.cn/" target="_blank">MSDN</a>
 			</td>
 		</tr>
 	</tbody>
