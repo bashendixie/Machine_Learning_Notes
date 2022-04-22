@@ -192,14 +192,6 @@ order: 3
 				https://github.com/PacktPublishing/Keras-Deep-Learning-Cookbook
 			</td>
 		</tr>
-		<tr>
-			<td>
-				算法图解
-			</td>
-			<td>
-				https://github.com/egonschiele/grokking_algorithms
-			</td>
-		</tr>
 	</tbody>
 </table>
 
