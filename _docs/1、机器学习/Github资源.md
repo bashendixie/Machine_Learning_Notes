@@ -228,4 +228,4 @@ order: 3
 	</tbody>
 </table>
 
-![](//placehold.it/800x600)
+
