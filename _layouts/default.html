@@ -8,26 +8,17 @@
 		{% seo %}
 		{% feed_meta %}
 
-		<link rel="stylesheet" href="/css/css?family=Merriweather:400,400italic,700,700italic|Open+Sans:400,400italic,600,600italic,700,700italic|Inconsolata:400,700">
-		<link rel="stylesheet" href="/css/main.css"><!--{{ site.baseurl }}-->
-		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="/images/favicon.png">
-
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<script>
-				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', '{{ site.google_analytics_key }}', 'auto');
-				ga('send', 'pageview');
-			</script>
-			<script async src='https://www.google-analytics.com/analytics.js'></script>
-		{% endif %}
+		<link rel="stylesheet" href="/Machine_Learning_Notes/css/css?family=Merriweather:400,400italic,700,700italic|Open+Sans:400,400italic,600,600italic,700,700italic|Inconsolata:400,700">
+		<link rel="stylesheet" href="/Machine_Learning_Notes/css/main.css"><!--{{ site.baseurl }}-->
+		<link rel="apple-touch-icon" href="/Machine_Learning_Notes/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="/Machine_Learning_Notes/touch-icon.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/Machine_Learning_Notes/images/favicon.png">
 	</head>
 
 	<body>
 		<header>
 			<h1>
-				<a href="{{ site.baseurl }}/"><img src="/images/emblem.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
+				<a href="{{ site.baseurl }}/"><img src="/Machine_Learning_Notes/images/emblem.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
 				{{ site.title }}
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
