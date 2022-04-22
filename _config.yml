@@ -3,7 +3,7 @@
 
 title: 机器学习与计算机视觉
 url: "https://long-pig.cloudvent.net"
-baseurl: "machine_learning_notes"
+baseurl:
 google_analytics_key:
 show_full_navigation: true
 
