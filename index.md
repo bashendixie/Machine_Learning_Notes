@@ -22,7 +22,6 @@ title: 学习笔记
 			<td>
 				<a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
 			</td>
-			
 		</tr>
 		<tr>
 			<td>
@@ -66,7 +65,6 @@ title: 学习笔记
 			<td>
 				<a href="http://www.java1234.com/a/javabook/javabase/" target="_blank">pdf下载</a>
 			</td>
-			
 		</tr>
 		<tr>
 			<td>
@@ -82,32 +80,26 @@ title: 学习笔记
 	</tbody>
 </table>
 
-> 科技资讯
-<table width="1033" style="font-size: 0.8em;">
-	<tbody>
-		<tr>
-			<td>
-				<a href="https://towardsdatascience.com/" target="_blank">迈向数据科学</a>
-			</td>
-			<td>
-				<a href="https://www.unite.ai/category/agi/" target="_blank">通用人工智能档案</a>
-			</td>
-			<td>
-				<a href="https://research.aimultiple.com/" target="_blank">aimultiple</a>
-			</td>
-			<td>
-				<a href="https://read.deeplearning.ai/the-batch/" target="_blank">deeplearning</a>
-			</td>
-			<td>
-				<a href="https://analyticsindiamag.com/" target="_blank">analyticsindiamag</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 > 工具网站
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
+		<tr>
+			<td>
+				<a href="https://skydance.blog.csdn.net/article/details/123165365" target="_blank">linux命令</a>
+			</td>
+			<td>
+				<a href="https://skydance.blog.csdn.net/article/details/110334002" target="_blank">python语法</a>
+			</td>
+			<td>
+			</td>
+			<td>
+			</td>
+			<td>
+			</td>
+			<td>
+			</td>
+		</tr>
 		<tr>
 			<td>
 				<a href="https://www.processon.com/" target="_blank">思维导图</a>
@@ -128,7 +120,6 @@ title: 学习笔记
 				<a href="https://idea.medeming.com/" target="_blank">IDEA激活</a>
 			</td>
 		</tr>
-		
 		<tr>
 			<td>
 				<a href="https://youtube.iiilab.com/" target="_blank">视频下载</a>
@@ -149,7 +140,6 @@ title: 学习笔记
 				<a href="http://www.xitongcheng.com/jiaocheng/win10_article_45072.html" target="_blank">Win10激活</a>
 			</td>
 		</tr>
-		
 		<tr>
 			<td>
 				<a href="http://www.pdfdo.com/image-to-txt.aspx" target="_blank">图转文字</a>
@@ -168,6 +158,30 @@ title: 学习笔记
 			</td>
 			<td>
 				<a href="https://fossies.org/windows/misc/" target="_blank">Win软件</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+> 科技资讯
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://towardsdatascience.com/" target="_blank">迈向数据科学</a>
+			</td>
+			<td>
+				<a href="https://www.unite.ai/category/agi/" target="_blank">通用人工智能档案</a>
+			</td>
+			<td>
+				<a href="https://research.aimultiple.com/" target="_blank">aimultiple</a>
+			</td>
+			<td>
+				<a href="https://read.deeplearning.ai/the-batch/" target="_blank">deeplearning</a>
+			</td>
+			<td>
+				<a href="https://analyticsindiamag.com/" target="_blank">analyticsindiamag</a>
 			</td>
 		</tr>
 	</tbody>
