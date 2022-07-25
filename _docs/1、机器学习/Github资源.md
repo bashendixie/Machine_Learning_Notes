@@ -123,7 +123,14 @@ order: 3
 				https://github.com/guofei9987
 			</td>
 		</tr>
-		
+		<tr>
+			<td>
+				图像配准
+			</td>
+			<td>
+				https://github.com/yzhq97/cnn-registration
+			</td>
+		</tr>
 	</tbody>
 </table>
 
