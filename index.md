@@ -79,6 +79,9 @@ title: 学习笔记
 			<td>
 				<a href="https://www.quora.com/" target="_blank">quora(美版知乎)</a>
 			</td>
+			<td>
+				<a href="https://www.microsoft.com/en-us/research/" target="_blank">微软研究院</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
