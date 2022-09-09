@@ -1,5 +1,5 @@
 ---
-title: Jave
+title: Java
 category: 前后端
 order: 1
 ---
