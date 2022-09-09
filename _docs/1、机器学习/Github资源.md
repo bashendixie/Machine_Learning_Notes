@@ -174,7 +174,6 @@ order: 3
 				https://github.com/hadrienj/deepLearningBook-Notes
 			</td>
 		</tr>
-		
 		<tr>
 			<td>
 				Hands-On-Computer-Vision-with-TensorFlow-2
@@ -239,7 +238,6 @@ order: 3
 				https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md
 			</td>
 		</tr>
-		
 	</tbody>
 </table>
 
