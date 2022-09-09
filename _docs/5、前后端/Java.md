@@ -1,6 +1,6 @@
 ---
-title: 基础知识
-category: Java
+title: Jave
+category: 前后端
 order: 1
 ---
 

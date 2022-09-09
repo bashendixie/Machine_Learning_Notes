@@ -1,6 +1,6 @@
 ---
 title: Vue
-category: 前端
+category: 前后端
 order: 1
 ---
 

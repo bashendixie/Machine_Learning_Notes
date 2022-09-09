@@ -1,10 +1,10 @@
 ---
-title: k8s and docker
-category: 部署和运维
+title: 部署和运维
+category: 前后端
 order: 1
 ---
 
-> 相关网站
+> k8s and docker
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
 		<tr>
