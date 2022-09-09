@@ -40,6 +40,23 @@ title: 学习笔记
 				<a href="https://drive.google.com/drive/my-drive" target="_blank">Google云端硬盘</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://docs.opencv.org" target="_blank">OpenCV</a>
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+			<td>
+				
+			</td>
+		</tr>
 	</tbody>
 </table>
 
