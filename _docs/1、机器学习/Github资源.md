@@ -143,71 +143,7 @@ order: 3
 </table>
 
 
-> 教材配套
-<table width="1033" style="font-size: 0.8em;">
-	<tbody>
-		<tr>
-			<td>
-				<strong>
-					名称
-				</strong>
-			</td>
-			<td>
-				<strong>
-					网址
-				</strong>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				《TensorFlow从零开始学》
-			</td>
-			<td>
-				https://github.com/lqhou/TensorFlow2.0-Book
-			</td>
-		</tr>
-		<tr>
-			<td>
-				The Deep Learning Book (2016)
-			</td>
-			<td>
-				https://github.com/hadrienj/deepLearningBook-Notes
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hands-On-Computer-Vision-with-TensorFlow-2
-			</td>
-			<td>
-				https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hands-On-Computer-Vision-with-TensorFlow-2
-			</td>
-			<td>
-				https://gitee.com/bashendixie/Hands-On-Computer-Vision-with-TensorFlow-2
-			</td>
-		</tr>
-		<tr>
-			<td>
-				深度学习实战
-			</td>
-			<td>
-				https://github.com/DOsinga/deep_learning_cookbook
-			</td>
-		</tr>
-		<tr>
-			<td>
-				深度学习实战
-			</td>
-			<td>
-				https://github.com/PacktPublishing/Keras-Deep-Learning-Cookbook
-			</td>
-		</tr>
-	</tbody>
-</table>
+
 
 
 > 预训练模型
