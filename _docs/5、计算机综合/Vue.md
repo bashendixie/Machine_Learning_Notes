@@ -1,6 +1,6 @@
 ---
 title: Vue
-category: 前后端
+category: 计算机综合
 order: 1
 ---
 

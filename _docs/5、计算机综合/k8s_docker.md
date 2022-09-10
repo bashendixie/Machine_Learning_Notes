@@ -1,6 +1,6 @@
 ---
 title: 部署和运维
-category: 前后端
+category: 计算机综合
 order: 1
 ---
 
