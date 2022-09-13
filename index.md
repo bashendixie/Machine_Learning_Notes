@@ -185,25 +185,3 @@ title: 学习笔记
 		</tr>
 	</tbody>
 </table>
-
-> 杂记
-<table width="1033" style="font-size: 0.8em;">
-	<tbody>
-		<tr>
-			<td>
-				<a href="https://chromatone.center/" target="_blank">Chromatone</a>
-			</td>
-			<td>
-				Chromatone是一项正在进行的研究和实验，旨在为个人音乐学习和探索以及集体实践和表演诱导同步人工联觉。
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="http://large.stanford.edu/courses/2011/ph240/" target="_blank">能量物理学导论</a>
-			</td>
-			<td>
-				能量物理学导论应用相关报告，涉及比较杂的知识。
-			</td>
-		</tr>
-	</tbody>
-</table>
