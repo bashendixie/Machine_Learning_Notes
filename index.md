@@ -165,7 +165,7 @@ title: 学习笔记
 		</tr>
 		<tr>
 			<td>
-				<a href="http://www.pdfdo.com/image-to-txt.aspx" target="_blank">图转文字</a>
+				<a href="http://www.pdfdo.com/image-to-txt.aspx" target="_blank">图转文字(一般)</a>
 			</td>
 			<td>
 				<a href="https://ocr.wdku.net/" target="_blank">图转文字</a>
