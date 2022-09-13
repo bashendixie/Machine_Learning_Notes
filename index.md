@@ -48,7 +48,7 @@ title: 学习笔记
 				<a href="https://www.kaggle.com/" target="_blank">kaggle</a>
 			</td>
 			<td>
-				
+				<a href="https://www.openml.org/" target="_blank">openml</a>
 			</td>
 			<td>
 				
