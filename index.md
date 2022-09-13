@@ -51,10 +51,10 @@ title: 学习笔记
 				<a href="https://www.openml.org/" target="_blank">openml</a>
 			</td>
 			<td>
-				
+				<a href="https://github.com/tesseract-ocr" target="_blank">tesseract-ocr</a>
 			</td>
 			<td>
-				
+				<a href="https://www.jaided.ai/easyocr/" target="_blank">easyocr-ocr</a>
 			</td>
 		</tr>
 	</tbody>
