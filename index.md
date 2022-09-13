@@ -186,30 +186,6 @@ title: 学习笔记
 	</tbody>
 </table>
 
-
-> 科技资讯
-<table width="1033" style="font-size: 0.8em;">
-	<tbody>
-		<tr>
-			<td>
-				<a href="https://towardsdatascience.com/" target="_blank">迈向数据科学</a>
-			</td>
-			<td>
-				<a href="https://www.unite.ai/category/agi/" target="_blank">通用人工智能档案</a>
-			</td>
-			<td>
-				<a href="https://research.aimultiple.com/" target="_blank">aimultiple</a>
-			</td>
-			<td>
-				<a href="https://read.deeplearning.ai/the-batch/" target="_blank">deeplearning</a>
-			</td>
-			<td>
-				<a href="https://analyticsindiamag.com/" target="_blank">analyticsindiamag</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
 > 杂记
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
