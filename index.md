@@ -99,6 +99,9 @@ title: 学习笔记
 			<td>
 				<a href="https://www.microsoft.com/en-us/research/" target="_blank">微软研究院</a>
 			</td>
+			<td>
+				<a href="https://medium.com/" target="_blank">medium</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
