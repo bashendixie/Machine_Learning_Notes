@@ -118,6 +118,7 @@ title: 学习笔记
 				<a href="https://skydance.blog.csdn.net/article/details/110334002" target="_blank">python语法</a>
 			</td>
 			<td>
+				<a href="https://www.processon.com/" target="_blank">思维导图</a>
 			</td>
 			<td>
 			</td>
@@ -128,7 +129,7 @@ title: 学习笔记
 		</tr>
 		<tr>
 			<td>
-				<a href="https://www.processon.com/" target="_blank">思维导图</a>
+				<a href="https://exeinfo-pe32.en.softonic.com/" target="_blank">Exeinfo(编译)</a>
 			</td>
 			<td>
 				<a href="https://www.jiayouyabeijing.com/cn/?a=gi9cp" target="_blank">极光</a>
