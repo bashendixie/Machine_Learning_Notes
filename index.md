@@ -42,7 +42,7 @@ title: 学习笔记
 		</tr>
 		<tr>
 			<td>
-				<a href="https://docs.opencv.org" target="_blank">OpenCV</a>
+				<a href="https://docs.opencv.org/4.6.0/" target="_blank">OpenCV</a>
 			</td>
 			<td>
 				<a href="https://www.kaggle.com/" target="_blank">kaggle</a>
