@@ -21,10 +21,10 @@ order: 1
 				<a href="http://openjdk.java.net/projects/jdk/10/" target="_blank">jdk10</a>
 			</td>
 			<td>
-				<a href="https://github.com/DocsHome/microservices" target="_blank">微服务：从设计到部署1</a>
+				<a href="https://github.com/DocsHome/microservices" target="_blank">从设计到部署1</a>
 			</td>
 			<td>
-				<a href="https://docshome.gitbook.io/microservices/" target="_blank">微服务：从设计到部署2</a>
+				<a href="https://docshome.gitbook.io/microservices/" target="_blank">从设计到部署2</a>
 			</td>
 			<td>
 				<a href="http://hg.openjdk.java.net/jdk" target="_blank">jdk</a>
@@ -35,7 +35,7 @@ order: 1
 				<a href="https://www.liaoxuefeng.com/" target="_blank">廖雪峰</a>
 			</td>
 			<td>
-				<a href="http://tutorials.jenkov.com/" target="_blank">jenkov</a>
+				<a href="https://jenkov.com/tutorials/java-nio/index.html" target="_blank">jenkov</a>
 			</td>
 			<td>
 				<a href="https://hollischuang.gitee.io/" target="_blank">java成神</a>
@@ -47,7 +47,7 @@ order: 1
 				<a href="http://www.javathinker.net/download.jsp" target="_blank">javathinkers</a>
 			</td>
 			<td>
-				<a href="https://www.tutorialspoint.com/java_nio/java_nio_quick_guide.htm" target="_blank">java nio</a>
+				<a href="https://www.tutorialspoint.com/java_nio/index.htm" target="_blank">java nio</a>
 			</td>
 			<td>
 				<a href="https://www.javatpoint.com/" target="_blank">javatpoint</a>
