@@ -50,6 +50,9 @@ title: 学习笔记
 			<td>
 				<a href="https://www.openml.org/" target="_blank">openml</a>
 			</td>
+			<td>
+				<a href="https://www.microsoft.com/en-us/research/" target="_blank">微软研究院</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
@@ -91,7 +94,7 @@ title: 学习笔记
 				<a href="https://www.quora.com/" target="_blank">quora(美版知乎)</a>
 			</td>
 			<td>
-				<a href="https://www.microsoft.com/en-us/research/" target="_blank">微软研究院</a>
+				<a href="https://www.manning.com/catalog" target="_blank">manning读书</a>
 			</td>
 			<td>
 				<a href="https://medium.com/" target="_blank">medium</a>
