@@ -63,6 +63,11 @@ order: 1
 			<td>
 				<a href="https://doocs.gitee.io/advanced-java/" target="_blank">教程2</a>
 			</td>
+			<td>
+				spring实战第5版<a href="https://github.com/PotoYang/spring-in-action-v5-translate" target="_blank">1</a>
+				<a href="https://github.com/habuma/spring-in-action-5-samples" target="_blank">2</a>
+				<a href="https://www.manning.com/books/spring-in-action-fifth-edition#toc" target="_blank">3</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
