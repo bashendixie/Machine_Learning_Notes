@@ -38,9 +38,6 @@ order: 1
 				<a href="https://jenkov.com/tutorials/java-nio/index.html" target="_blank">jenkov</a>
 			</td>
 			<td>
-				<a href="https://hollischuang.gitee.io/" target="_blank">java成神</a>
-			</td>
-			<td>
 				<a href="https://www.baeldung.com/spring-security-vs-apache-shiro" target="_blank">baeldungs</a>
 			</td>
 			<td>
@@ -52,14 +49,11 @@ order: 1
 			<td>
 				<a href="https://www.javatpoint.com/" target="_blank">javatpoint</a>
 			</td>
-		</tr>
-		<tr>
 			<td>
 				<a href="https://www.javacodegeeks.com/category/java/enterprise-java" target="_blank">javacode</a>
 			</td>
-			<td>
-				<a href="http://www.yesdata.net/archives/" target="_blank">教程1</a>
-			</td>
+		</tr>
+		<tr>
 			<td>
 				<a href="https://doocs.gitee.io/advanced-java/" target="_blank">教程2</a>
 			</td>
