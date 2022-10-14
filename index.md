@@ -88,9 +88,6 @@ title: 学习笔记
 				<a href="https://pan.baidu.com/share/init?surl=oTJjTkxK0PuV2nRExq1wcA" target="_blank">odp0 johngo_tec</a>
 			</td>
 			<td>
-				<a href="https://pan.baidu.com/share/init?surl=hL5G14eiRp6WdK7iWlsuzw" target="_blank">j7i8 johngo_tec</a>
-			</td>
-			<td>
 				<a href="https://www.quora.com/" target="_blank">quora(美版知乎)</a>
 			</td>
 			<td>
