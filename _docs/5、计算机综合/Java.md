@@ -66,6 +66,19 @@ order: 1
 	</tbody>
 </table>
 
+> 消息队列
+<table width="1033" style="font-size: 0.8em;">
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://github.com/apache/rocketmq" target="_blank">rocketmq</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 > 工具
 <table width="1033" style="font-size: 0.8em;">
 	<tbody>
