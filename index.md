@@ -8,8 +8,13 @@ title: 学习笔记
 	<tbody>
 		<tr>
 			<td>
+				<a href="http://www.nmc.cn/publish/forecast/ALN/dalian.html" target="_blank">天气预报</a>
+			</td>
+			<td>
 				<a href="https://www.crystalclassics.com/swarovski/5583201.htm" target="_blank">Baby Yoda</a>
 			</td>
+		</tr>
+		<tr>
 			<td>
 				<a href="https://translate.google.cn/" target="_blank">Google翻译</a>
 			</td>
