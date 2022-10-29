@@ -67,13 +67,7 @@ title: 学习笔记
 				<a href="https://weread.qq.com/" target="_blank">微信读书</a>
 			</td>
 			<td>
-				<a href="https://weread.qq.com/web/reader/45b32df07195029145b66f4kc81322c012c81e728d9d180" target="_blank">MySQL8</a>
-			</td>
-			<td>
 				<a href="https://e-m.jd.com/static/read/dist/index.html?ebookId=30727974&name=%E6%9E%B6%E6%9E%84%E7%9C%9F%E6%84%8F%EF%BC%9A%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5" target="_blank">架构真意</a>
-			</td>
-			<td>
-				<a href="https://e-m.jd.com/static/read/dist/index.html?ebookId=30468336&name=%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0" target="_blank">深度学习</a>
 			</td>
 			<td>
 				<a href="https://mitpress.ublish.com/" target="_blank">MIT电子书</a>
@@ -81,14 +75,14 @@ title: 学习笔记
 			<td>
 				<a href="http://www.java1234.com/a/javabook/javabase/" target="_blank">pdf下载</a>
 			</td>
-		</tr>
-		<tr>
 			<td>
 				<a href="https://www.jiumodiary.com/" target="_blank">鸠摩搜索</a>
 			</td>
 			<td>
 				<a href="https://pan.baidu.com/share/init?surl=oTJjTkxK0PuV2nRExq1wcA" target="_blank">odp0 johngo_tec</a>
 			</td>
+		</tr>
+		<tr>
 			<td>
 				<a href="https://www.quora.com/" target="_blank">quora(美版知乎)</a>
 			</td>
