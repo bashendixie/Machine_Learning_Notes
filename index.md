@@ -36,13 +36,16 @@ title: 学习笔记
 				<a href="https://drive.google.com/drive/my-drive" target="_blank">Google云端硬盘</a>
 			</td>
 			<td>
-				<a href="https://account.aliyun.com/" target="_blank">阿里云</a>
-			</td>
-			<td>
 				<a href="https://colab.research.google.com/" target="_blank">Google Colab</a>
 			</td>
 			<td>
 				<a href="http://localhost:8888/lab" target="_blank">JupyterLab</a>
+			</td>
+			<td>
+				<a href="https://www.kaggle.com/" target="_blank">kaggle</a>
+			</td>
+			<td>
+				<a href="https://www.openml.org/" target="_blank">openml</a>
 			</td>
 		</tr>
 		<tr>
@@ -50,10 +53,10 @@ title: 学习笔记
 				<a href="https://docs.opencv.org/4.6.0/" target="_blank">OpenCV</a>
 			</td>
 			<td>
-				<a href="https://www.kaggle.com/" target="_blank">kaggle</a>
+				<a href="https://github.com/opencv/opencv_zoo" target="_blank">opencv_zoo</a>
 			</td>
 			<td>
-				<a href="https://www.openml.org/" target="_blank">openml</a>
+				<a href="https://gitee.com/bashendixie/opencv_zoo" target="_blank">opencv_zoo</a>
 			</td>
 		</tr>
 	</tbody>
