@@ -58,6 +58,9 @@ title: 学习笔记
 			<td>
 				<a href="https://gitee.com/bashendixie/opencv_zoo" target="_blank">opencv_zoo</a>
 			</td>
+			<td>
+				<a href="https://huggingface.co/" target="_blank">Hugging Face</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
