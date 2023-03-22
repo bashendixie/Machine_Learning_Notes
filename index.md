@@ -85,6 +85,9 @@ title: 学习笔记
 				<a href="https://www.jiumodiary.com/" target="_blank">鸠摩搜索</a>
 			</td>
 			<td>
+				<a href="https://sciarium.com/" target="_blank">英文书籍</a>
+			</td>
+			<td>
 				<a href="https://pan.baidu.com/share/init?surl=oTJjTkxK0PuV2nRExq1wcA" target="_blank">odp0 johngo_tec</a>
 			</td>
 		</tr>
