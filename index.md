@@ -61,6 +61,9 @@ title: 学习笔记
 			<td>
 				<a href="https://huggingface.co/" target="_blank">Hugging Face</a>
 			</td>
+			<td>
+				<a href="https://ww2.mathworks.cn/help/overview/examples.html?category=image-processing-and-computer-vision&s_tid=CRUX_topnav" target="_blank">matlab demo</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
