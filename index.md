@@ -138,9 +138,6 @@ title: 学习笔记
 				<a href="https://www.jiayouyabeijing.com/cn/?a=gi9cp" target="_blank">极光</a>
 			</td>
 			<td>
-				<a href="http://www.zhangyuxuan.com/" target="_blank">vip视频解析</a>
-			</td>
-			<td>
 				<a href="https://ausososo.space/zh-TW/help" target="_blank">auVpn</a>
 			</td>
 			<td>
