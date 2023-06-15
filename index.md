@@ -13,6 +13,9 @@ title: 学习笔记
 			<td>
 				<a href="https://www.crystalclassics.com/swarovski/5583201.htm" target="_blank">Baby Yoda</a>
 			</td>
+			<td>
+				<a href="https://learn.microsoft.com/zh-cn/office/client-developer/access/desktop-database-reference/data-definition-language" target="_blank">access</a>
+			</td>
 		</tr>
 		<tr>
 			<td>
