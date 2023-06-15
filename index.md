@@ -107,6 +107,9 @@ title: 学习笔记
 			<td>
 				<a href="https://medium.com/" target="_blank">medium</a>
 			</td>
+			<td>
+				<a href="https://plato.stanford.edu/contents.html" target="_blank">哲学</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
