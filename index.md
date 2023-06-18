@@ -132,6 +132,7 @@ title: 学习笔记
 				<a href="https://blog.csdn.net/qq_18620653/article/details/120033443" target="_blank">Halcon License</a>
 			</td>
 			<td>
+				<a href="http://www.eclzz.wiki/" target="_blank">磁力蜘蛛</a>
 			</td>
 			<td>
 			</td>
