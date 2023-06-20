@@ -153,6 +153,9 @@ title: 学习笔记
 			<td>
 				<a href="https://idea.medeming.com/" target="_blank">IDEA激活</a>
 			</td>
+			<td>
+				<a href="http://zhouql.vip/bilibili/?continueFlag=dff994459b24bd67d0dedb910817f2ab" target="_blank">bibi下载1</a>
+			</td>
 		</tr>
 		<tr>
 			<td>
