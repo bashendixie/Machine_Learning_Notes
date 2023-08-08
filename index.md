@@ -19,6 +19,9 @@ title: 学习笔记
 			<td>
 				<a href="https://markdown.com.cn/editor/" target="_blank">在线markdown</a>
 			</td>
+			<td>
+				<a href="https://medium.com/tag/computer-vision/recommended" target="_blank">计算机视觉</a>
+			</td>
 		</tr>
 		<tr>
 			<td>
