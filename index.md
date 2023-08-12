@@ -74,6 +74,11 @@ title: 学习笔记
 				<a href="https://ww2.mathworks.cn/help/overview/examples.html?category=image-processing-and-computer-vision&s_tid=CRUX_topnav" target="_blank">matlab demo</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://grand-challenge.org/" target="_blank">大挑战</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
