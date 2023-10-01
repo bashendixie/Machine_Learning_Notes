@@ -121,6 +121,9 @@ title: 学习笔记
 			<td>
 				<a href="https://plato.stanford.edu/contents.html" target="_blank">哲学</a>
 			</td>
+			<td>
+				<a href="https://z-lib.is/book/machine-learning-empowered-intelligent-data-center" target="_blank">z-lib电子书</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
