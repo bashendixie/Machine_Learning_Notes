@@ -78,6 +78,9 @@ title: 学习笔记
 			<td>
 				<a href="https://grand-challenge.org/" target="_blank">大挑战</a>
 			</td>
+			<td>
+				<a href="https://origin-www.amazon.cn/dp/B08D12JD18/ref=sw_img_d_crh_rh_cps_4?_encoding=UTF8&pd_rd_i=B08D12JD18&pd_rd_w=XJjlL&content-id=amzn1.sym.2026c856-d6b6-438f-9881-f0649b85f67c&pf_rd_p=2026c856-d6b6-438f-9881-f0649b85f67c&pf_rd_r=R36WFC2M398FN65RX4WV&pd_rd_wg=PFame&pd_rd_r=6a77b813-67c5-442c-a51a-6fad72f3d08f&th=1" target="_blank">Baby Yoda2</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
