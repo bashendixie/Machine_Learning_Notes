@@ -127,6 +127,9 @@ title: 学习笔记
 			<td>
 				<a href="https://z-lib.is/book/machine-learning-empowered-intelligent-data-center" target="_blank">z-lib电子书</a>
 			</td>
+			<td>
+				<a href="http://www.yadushu.com/it/zhineng/" target="_blank">yadushu</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
