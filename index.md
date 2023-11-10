@@ -227,6 +227,9 @@ title: 学习笔记
 			<td>
 				<a href="https://www.online-convert.com/" target="_blank">格式转换3</a>
 			</td>
+			<td>
+				<a href="https://cdkm.com/cn/png-to-svg#google_vignette" target="_blank">png-to-svg</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
