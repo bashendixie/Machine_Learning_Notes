@@ -140,13 +140,16 @@ title: 学习笔记
 	<tbody>
 		<tr>
 			<td>
-				<a href="https://skydance.blog.csdn.net/article/details/123165365" target="_blank">linux命令</a>
+				<a href="https://netron.app/" target="_blank">模型可视化</a>
 			</td>
 			<td>
 				<a href="https://skydance.blog.csdn.net/article/details/110334002" target="_blank">python语法</a>
 			</td>
 			<td>
 				<a href="https://www.processon.com/" target="_blank">思维导图</a>
+			</td>
+			<td>
+				<a href="https://skydance.blog.csdn.net/article/details/123165365" target="_blank">linux命令</a>
 			</td>
 			<td>
 				<a href="https://blog.csdn.net/qq_18620653/article/details/120033443" target="_blank">Halcon License</a>
