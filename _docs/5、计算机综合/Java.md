@@ -62,6 +62,12 @@ order: 1
 				<a href="https://github.com/habuma/spring-in-action-5-samples" target="_blank">2</a>
 				<a href="https://www.manning.com/books/spring-in-action-fifth-edition#toc" target="_blank">3</a>
 			</td>
+			<td>
+				<a href="https://www.geeksforgeeks.org/" target="_blank">geeks</a>
+			</td>
+			<td>
+				<a href="https://vegibit.com/" target="_blank">vegibit</a>
+			</td>
 		</tr>
 	</tbody>
 </table>

@@ -8,6 +8,14 @@ title: 学习笔记
 	<tbody>
 		<tr>
 			<td>
+				<a href="https://github.com/lutzroeder/netron/tree/main" target="_blank">模型可视化</a>
+			</td>
+			<td>
+				<a href="https://mathsolver.microsoft.com/zh-Hant/calculus-calculator" target="_blank">计算器</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="http://www.nmc.cn/publish/forecast/ALN/dalian.html" target="_blank">天气预报</a>
 			</td>
 			<td>
