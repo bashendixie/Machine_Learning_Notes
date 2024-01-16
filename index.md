@@ -141,6 +141,9 @@ title: 学习笔记
 			<td>
 				<a href="http://www.yadushu.com/it/zhineng/" target="_blank">yadushu</a>
 			</td>
+			<td>
+				<a href="https://zh.z-library.se/?continueFlag=929a345b2b3c8f1b1ea1fc66bd0034d3&s_trans=1415694185_&s_channel=4" target="_blank">中文zlib</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
