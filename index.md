@@ -142,6 +142,11 @@ title: 学习笔记
 				<a href="https://zh.z-library.se/?continueFlag=929a345b2b3c8f1b1ea1fc66bd0034d3&s_trans=1415694185_&s_channel=4" target="_blank">中文zlib</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://www.stephenwolfram.com/" target="_blank">厉害的骗子</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
