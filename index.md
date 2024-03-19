@@ -204,6 +204,9 @@ title: 学习笔记
 				<a href="https://bilibili.iiilab.com/" target="_blank">bibi下载</a>
 			</td>
 			<td>
+				<a href="https://en.savefrom.net/1-youtube-video-downloader-573wl/" target="_blank">视频下载</a>
+			</td>
+			<td>
 				<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html" target="_blank">m3u8下载</a>
 			</td>
 			<td>
@@ -211,9 +214,6 @@ title: 学习笔记
 			</td>
 			<td>
 				<a href="http://tools.jb51.net/jisuanqi/create_fun/" target="_blank">多项式拟合</a>
-			</td>
-			<td>
-				<a href="http://www.xitongcheng.com/jiaocheng/win10_article_45072.html" target="_blank">Win10激活</a>
 			</td>
 		</tr>
 		<tr>
@@ -248,6 +248,9 @@ title: 学习笔记
 			</td>
 			<td>
 				<a href="https://cdkm.com/cn/png-to-svg#google_vignette" target="_blank">png-to-svg</a>
+			</td>
+			<td>
+				<a href="http://www.xitongcheng.com/jiaocheng/win10_article_45072.html" target="_blank">Win10激活</a>
 			</td>
 		</tr>
 	</tbody>
